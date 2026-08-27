@@ -1,0 +1,852 @@
+{
+ "items": [
+  {
+   "no": 1,
+   "text": "Sebelum mengikuti pelatihan Canva, seorang peserta ingin langsung mencoba membuat desain tanpa mengeluarkan biaya. Langkah PERTAMA yang PALING TEPAT dilakukan adalah…",
+   "p": 0.16216216216216217,
+   "U": 4,
+   "L": 1,
+   "D": 0.3,
+   "rpb": 0.3570948758361577,
+   "correct": 6,
+   "incorrect": 8,
+   "blank": 23,
+   "key": "Mendaftarkan akun gratis di www.canva.com lalu langsung memulai desain",
+   "distr": [
+    [
+     "Mendaftarkan akun gratis di www.canva.com lalu langsung memulai desain",
+     6
+    ],
+    [
+     "Menunggu panitia membagikan akun Canva bersama",
+     6
+    ],
+    [
+     "Mengunduh aplikasi Canva berbayar dari toko aplikasi",
+     2
+    ]
+   ],
+   "eff_distr": 2,
+   "nopt": 3,
+   "avg_t": "00:00:25",
+   "top_wrong": [
+    "Menunggu panitia membagikan akun Canva bersama",
+    6
+   ]
+  },
+  {
+   "no": 2,
+   "text": "Perhatikan empat pernyataan berikut tentang Canva:\n(1) Canva adalah platform desain grafis berbasis online\n(2) Canva hanya bisa digunakan oleh desainer profesional bersertifikat\n(3) Canva menggunakan sistem drag-and-drop sehingga mudah digunakan siapa pun\n(4) Canva hanya bisa diakses melalui komputer, tidak bisa di HP\nPernyataan yang BENAR adalah…",
+   "p": 0.32432432432432434,
+   "U": 7,
+   "L": 0,
+   "D": 0.7,
+   "rpb": 0.6085915332525539,
+   "correct": 12,
+   "incorrect": 13,
+   "blank": 12,
+   "key": "(1) dan (3)",
+   "distr": [
+    [
+     "(1) dan (3)",
+     12
+    ],
+    [
+     "(1) dan (2)",
+     5
+    ],
+    [
+     "(2) dan (3)",
+     4
+    ],
+    [
+     "(1), (3), dan (4)",
+     4
+    ]
+   ],
+   "eff_distr": 3,
+   "nopt": 4,
+   "avg_t": "00:00:32",
+   "top_wrong": [
+    "(1) dan (2)",
+    5
+   ]
+  },
+  {
+   "no": 3,
+   "text": "Canva menawarkan 4 paket harga: Gratis (Rp0), Pro (Rp95.000/bulan), Bisnis (Rp130.000/bulan), dan Perusahaan. Seorang anggota komunitas gereja baru pertama kali belajar desain dan membutuhkan fitur dasar saja. Rekomendasi paket yang PALING RASIONAL adalah…",
+   "p": 0.4594594594594595,
+   "U": 6,
+   "L": 2,
+   "D": 0.4,
+   "rpb": 0.3936360269818622,
+   "correct": 17,
+   "incorrect": 3,
+   "blank": 17,
+   "key": "Paket Gratis karena sudah cukup untuk kebutuhan desain dasar komunitas",
+   "distr": [
+    [
+     "Paket Gratis karena sudah cukup untuk kebutuhan desain dasar komunitas",
+     17
+    ],
+    [
+     "Paket Pro karena menjadi paket paling populer",
+     2
+    ],
+    [
+     "Paket Bisnis karena tersedia fitur paling lengkap",
+     1
+    ]
+   ],
+   "eff_distr": 2,
+   "nopt": 3,
+   "avg_t": "00:00:24",
+   "top_wrong": [
+    "Paket Pro karena menjadi paket paling populer",
+    2
+   ]
+  },
+  {
+   "no": 4,
+   "text": "Sistem 'drag-and-drop' adalah fitur utama Canva. Dari pilihan berikut, manakah deskripsi yang PALING AKURAT tentang cara kerja sistem ini?",
+   "p": 0.24324324324324326,
+   "U": 5,
+   "L": 1,
+   "D": 0.4,
+   "rpb": 0.4854084137891395,
+   "correct": 9,
+   "incorrect": 17,
+   "blank": 11,
+   "key": "Elemen desain dipindahkan, diubah ukurannya, dan disusun hanya dengan menggeser menggunakan mouse/jari tanpa memerlukan keahlian teknis coding",
+   "distr": [
+    [
+     "Elemen desain dipindahkan, diubah ukurannya, dan disusun hanya dengan menggeser menggunakan mouse/jari tanpa memerlukan keahlian teknis coding",
+     9
+    ],
+    [
+     "Fitur ini mengharuskan pengguna mengunduh elemen terlebih dahulu sebelum digunakan",
+     9
+    ],
+    [
+     "Pengguna harus mengetik kode perintah di terminal untuk memindahkan elemen",
+     5
+    ],
+    [
+     "Sistem drag-and-drop hanya berfungsi pada perangkat layar sentuh (touchscreen)",
+     3
+    ]
+   ],
+   "eff_distr": 3,
+   "nopt": 4,
+   "avg_t": "00:00:21",
+   "top_wrong": [
+    "Fitur ini mengharuskan pengguna mengunduh elemen terlebih dahulu sebelum digunakan",
+    9
+   ]
+  },
+  {
+   "no": 5,
+   "text": "Seorang peserta melihat tampilan editor Canva dan bingung membedakan fungsi 'Panel Kiri' dengan 'Area Desain'. Pasangan fungsi yang BENAR adalah…",
+   "p": 0.21621621621621623,
+   "U": 7,
+   "L": 0,
+   "D": 0.7,
+   "rpb": 0.6716894947525449,
+   "correct": 8,
+   "incorrect": 19,
+   "blank": 10,
+   "key": "Panel Kiri = menyediakan menu dan fitur (Elemen, Teks, Unggahan, dll.); Area Desain = kanvas tempat membuat dan mengedit desain",
+   "distr": [
+    [
+     "Keduanya memiliki fungsi yang sama dan bisa digunakan secara bergantian",
+     11
+    ],
+    [
+     "Panel Kiri = menyediakan menu dan fitur (Elemen, Teks, Unggahan, dll.); Area Desain = kanvas tempat membuat dan mengedit desain",
+     8
+    ],
+    [
+     "Panel Kiri = tempat mengedit teks secara langsung; Area Desain = tempat memilih template",
+     7
+    ],
+    [
+     "Panel Kiri = area desain utama; Area Desain = menu navigasi tambahan",
+     1
+    ]
+   ],
+   "eff_distr": 2,
+   "nopt": 4,
+   "avg_t": "00:00:18",
+   "top_wrong": [
+    "Keduanya memiliki fungsi yang sama dan bisa digunakan secara bergantian",
+    11
+   ]
+  },
+  {
+   "no": 6,
+   "text": "Dalam prinsip desain grafis, 'hierarki visual' bertujuan memandu mata pembaca pada informasi terpenting. Manakah penerapan yang BERTENTANGAN dengan prinsip hierarki visual yang baik?",
+   "p": 0.43243243243243246,
+   "U": 7,
+   "L": 3,
+   "D": 0.4,
+   "rpb": 0.358972779033257,
+   "correct": 16,
+   "incorrect": 17,
+   "blank": 4,
+   "key": "Semua teks dalam desain menggunakan ukuran dan ketebalan yang identik agar tampak seragam",
+   "distr": [
+    [
+     "Semua teks dalam desain menggunakan ukuran dan ketebalan yang identik agar tampak seragam",
+     16
+    ],
+    [
+     "Warna kontras digunakan untuk menonjolkan elemen penting",
+     7
+    ],
+    [
+     "Judul ditulis lebih besar dan tebal dibandingkan isi teks",
+     5
+    ],
+    [
+     "Elemen informasi utama diposisikan di area yang lebih strategis dan menonjol",
+     5
+    ]
+   ],
+   "eff_distr": 3,
+   "nopt": 4,
+   "avg_t": "00:00:21",
+   "top_wrong": [
+    "Warna kontras digunakan untuk menonjolkan elemen penting",
+    7
+   ]
+  },
+  {
+   "no": 7,
+   "text": "Canva menyediakan berbagai format ekspor. Seorang peserta ingin menyimpan desain posternya untuk diunggah ke Instagram dengan kualitas gambar terbaik. Format yang PALING SESUAI adalah…",
+   "p": 0.21621621621621623,
+   "U": 4,
+   "L": 1,
+   "D": 0.3,
+   "rpb": 0.42631914335492976,
+   "correct": 8,
+   "incorrect": 24,
+   "blank": 5,
+   "key": "PNG — kualitas tinggi dengan dukungan latar belakang transparan, ideal untuk media sosial",
+   "distr": [
+    [
+     "PPTX — agar mudah dibuka di PowerPoint",
+     10
+    ],
+    [
+     "PDF — karena ukuran file paling kecil",
+     9
+    ],
+    [
+     "PNG — kualitas tinggi dengan dukungan latar belakang transparan, ideal untuk media sosial",
+     8
+    ],
+    [
+     "MP4 — karena resolusi paling tinggi",
+     5
+    ]
+   ],
+   "eff_distr": 3,
+   "nopt": 4,
+   "avg_t": "00:00:19",
+   "top_wrong": [
+    "PPTX — agar mudah dibuka di PowerPoint",
+    10
+   ]
+  },
+  {
+   "no": 8,
+   "text": "Dalam teori warna desain grafis, warna 'analog' adalah warna yang berdekatan di roda warna. Manakah contoh kombinasi warna ANALOG yang tepat?",
+   "p": 0.2972972972972973,
+   "U": 5,
+   "L": 1,
+   "D": 0.4,
+   "rpb": 0.3464250834426408,
+   "correct": 11,
+   "incorrect": 20,
+   "blank": 6,
+   "key": "Biru, Biru-Hijau, dan Hijau (berdekatan di roda warna)",
+   "distr": [
+    [
+     "Biru, Biru-Hijau, dan Hijau (berdekatan di roda warna)",
+     11
+    ],
+    [
+     "Merah, Kuning, dan Biru (tersebar di roda warna)",
+     9
+    ],
+    [
+     "Ungu dan Kuning (warna komplementer)",
+     6
+    ],
+    [
+     "Merah dan Hijau (warna berlawanan)",
+     5
+    ]
+   ],
+   "eff_distr": 3,
+   "nopt": 4,
+   "avg_t": "00:00:21",
+   "top_wrong": [
+    "Merah, Kuning, dan Biru (tersebar di roda warna)",
+    9
+   ]
+  },
+  {
+   "no": 9,
+   "text": "Canva memiliki fitur 'Template'. Manakah pernyataan yang PALING TEPAT membedakan Template dengan Elemen di Canva?",
+   "p": 0.4594594594594595,
+   "U": 7,
+   "L": 1,
+   "D": 0.6,
+   "rpb": 0.4515466949672654,
+   "correct": 17,
+   "incorrect": 12,
+   "blank": 8,
+   "key": "Template adalah desain lengkap siap pakai yang bisa dimodifikasi; Elemen adalah komponen individual (ikon, grafis, foto) yang ditambahkan ke desain",
+   "distr": [
+    [
+     "Template adalah desain lengkap siap pakai yang bisa dimodifikasi; Elemen adalah komponen individual (ikon, grafis, foto) yang ditambahkan ke desain",
+     17
+    ],
+    [
+     "Template hanya untuk presentasi; Elemen hanya untuk poster",
+     5
+    ],
+    [
+     "Template dan Elemen adalah hal yang sama, hanya berbeda istilah di menu berbeda",
+     4
+    ],
+    [
+     "Template selalu berbayar; Elemen selalu gratis untuk semua pengguna",
+     3
+    ]
+   ],
+   "eff_distr": 3,
+   "nopt": 4,
+   "avg_t": "00:00:17",
+   "top_wrong": [
+    "Template hanya untuk presentasi; Elemen hanya untuk poster",
+    5
+   ]
+  },
+  {
+   "no": 10,
+   "text": "Canva didirikan pada 1 Januari 2013 di Perth, Australia. Bisnis apa yang menjadi inspirasi awal lahirnya Canva, sebelum berkembang menjadi platform desain global?",
+   "p": 0.13513513513513514,
+   "U": 5,
+   "L": 0,
+   "D": 0.5,
+   "rpb": 0.47913247997608915,
+   "correct": 5,
+   "incorrect": 22,
+   "blank": 10,
+   "key": "Bisnis buku tahunan sekolah bernama Fusion Books yang dibangun di rumah",
+   "distr": [
+    [
+     "Platform media sosial berbagi foto bernama Flickr",
+     10
+    ],
+    [
+     "Perusahaan percetakan profesional skala besar",
+     6
+    ],
+    [
+     "Aplikasi edit video mobile untuk smartphone",
+     6
+    ],
+    [
+     "Bisnis buku tahunan sekolah bernama Fusion Books yang dibangun di rumah",
+     5
+    ]
+   ],
+   "eff_distr": 3,
+   "nopt": 4,
+   "avg_t": "00:00:17",
+   "top_wrong": [
+    "Platform media sosial berbagi foto bernama Flickr",
+    10
+   ]
+  },
+  {
+   "no": 11,
+   "text": "Seorang pemula melihat prinsip desain 'White Space' (Ruang Kosong) dan bertanya: 'Bukankah ruang kosong itu pemborosan?' Jawaban yang PALING TEPAT berdasarkan prinsip desain profesional adalah…",
+   "p": 0.24324324324324326,
+   "U": 4,
+   "L": 1,
+   "D": 0.3,
+   "rpb": 0.2836094103037671,
+   "correct": 9,
+   "incorrect": 21,
+   "blank": 7,
+   "key": "Salah; ruang kosong membuat desain terlihat rapi, elegan, memudahkan pembacaan, dan memberi napas visual bagi mata",
+   "distr": [
+    [
+     "Salah; ruang kosong membuat desain terlihat rapi, elegan, memudahkan pembacaan, dan memberi napas visual bagi mata",
+     9
+    ],
+    [
+     "Benar, ruang kosong sebaiknya diisi elemen agar desain terlihat penuh dan kaya informasi",
+     9
+    ],
+    [
+     "Tergantung pada jenis desain — untuk poster promosi ruang kosong tidak diperlukan",
+     7
+    ],
+    [
+     "Ruang kosong hanya efektif pada desain minimalis bertemakan teknologi",
+     5
+    ]
+   ],
+   "eff_distr": 3,
+   "nopt": 4,
+   "avg_t": "00:00:21",
+   "top_wrong": [
+    "Benar, ruang kosong sebaiknya diisi elemen agar desain terlihat penuh dan kaya informasi",
+    9
+   ]
+  },
+  {
+   "no": 12,
+   "text": "Canva menyimpan desain secara otomatis di cloud. Manakah pernyataan yang BENAR tentang manfaat penyimpanan cloud Canva?",
+   "p": 0.40540540540540543,
+   "U": 7,
+   "L": 1,
+   "D": 0.6,
+   "rpb": 0.5012318993627387,
+   "correct": 15,
+   "incorrect": 13,
+   "blank": 9,
+   "key": "Desain tersimpan aman secara otomatis dan bisa diakses dari perangkat mana pun kapan saja",
+   "distr": [
+    [
+     "Desain tersimpan aman secara otomatis dan bisa diakses dari perangkat mana pun kapan saja",
+     15
+    ],
+    [
+     "Desain hanya bisa diakses dari satu perangkat yang digunakan saat membuat desain",
+     6
+    ],
+    [
+     "File yang tersimpan di cloud hanya bisa dilihat dalam mode pratinjau, tidak bisa diedit kembali",
+     4
+    ],
+    [
+     "Penyimpanan cloud Canva memerlukan biaya tambahan di luar harga paket",
+     3
+    ]
+   ],
+   "eff_distr": 3,
+   "nopt": 4,
+   "avg_t": "00:00:18",
+   "top_wrong": [
+    "Desain hanya bisa diakses dari satu perangkat yang digunakan saat membuat desain",
+    6
+   ]
+  },
+  {
+   "no": 13,
+   "text": "Tujuan Pelatihan Canva pada 1 Juni 2026 mencakup 6 kompetensi. Manakah yang BUKAN merupakan tujuan resmi pelatihan ini?",
+   "p": 0.32432432432432434,
+   "U": 7,
+   "L": 2,
+   "D": 0.5,
+   "rpb": 0.4390523450021847,
+   "correct": 12,
+   "incorrect": 17,
+   "blank": 8,
+   "key": "Menguasai pemrograman HTML/CSS untuk membuat halaman web melalui Canva",
+   "distr": [
+    [
+     "Menguasai pemrograman HTML/CSS untuk membuat halaman web melalui Canva",
+     12
+    ],
+    [
+     "Memahami fungsi dan manfaat Canva",
+     9
+    ],
+    [
+     "Menyimpan dan membagikan hasil desain",
+     6
+    ],
+    [
+     "Menggunakan template, elemen, dan animasi secara efektif",
+     2
+    ]
+   ],
+   "eff_distr": 3,
+   "nopt": 4,
+   "avg_t": "00:00:17",
+   "top_wrong": [
+    "Memahami fungsi dan manfaat Canva",
+    9
+   ]
+  },
+  {
+   "no": 14,
+   "text": "Ukuran standar konten untuk setiap platform media sosial berbeda-beda. Jika seorang peserta ingin membuat konten untuk TikTok atau Instagram Story (format vertikal penuh layar), ukuran yang TEPAT adalah…",
+   "p": 0.1891891891891892,
+   "U": 4,
+   "L": 0,
+   "D": 0.4,
+   "rpb": 0.3828714737737871,
+   "correct": 7,
+   "incorrect": 19,
+   "blank": 11,
+   "key": "1080 x 1920 px (rasio 9:16, format portrait penuh layar)",
+   "distr": [
+    [
+     "1080 x 1080 px (rasio 1:1, untuk Instagram Feed)",
+     10
+    ],
+    [
+     "1080 x 1920 px (rasio 9:16, format portrait penuh layar)",
+     7
+    ],
+    [
+     "1280 x 720 px (rasio 16:9, untuk YouTube Thumbnail)",
+     6
+    ],
+    [
+     "1200 x 630 px (rasio 1.91:1, untuk Facebook Post)",
+     3
+    ]
+   ],
+   "eff_distr": 3,
+   "nopt": 4,
+   "avg_t": "00:00:20",
+   "top_wrong": [
+    "1080 x 1080 px (rasio 1:1, untuk Instagram Feed)",
+    10
+   ]
+  },
+  {
+   "no": 15,
+   "text": "Dalam desain, penggunaan font yang baik mempengaruhi keterbacaan dan estetika. Manakah praktik penggunaan font yang SESUAI dengan panduan desain profesional Canva?",
+   "p": 0.43243243243243246,
+   "U": 6,
+   "L": 0,
+   "D": 0.6,
+   "rpb": 0.3735363676563167,
+   "correct": 16,
+   "incorrect": 12,
+   "blank": 9,
+   "key": "Menggunakan maksimal 2–3 jenis font dengan kombinasi yang harmonis seperti Poppins + Open Sans",
+   "distr": [
+    [
+     "Menggunakan maksimal 2–3 jenis font dengan kombinasi yang harmonis seperti Poppins + Open Sans",
+     16
+    ],
+    [
+     "Mengutamakan font dekoratif untuk seluruh teks termasuk isi paragraf panjang",
+     5
+    ],
+    [
+     "Menggunakan 6 jenis font berbeda agar desain terlihat dinamis dan variatif",
+     5
+    ],
+    [
+     "Menggunakan hanya satu jenis font tanpa variasi ukuran dan ketebalan",
+     2
+    ]
+   ],
+   "eff_distr": 3,
+   "nopt": 4,
+   "avg_t": "00:00:18",
+   "top_wrong": [
+    "Mengutamakan font dekoratif untuk seluruh teks termasuk isi paragraf panjang",
+    5
+   ]
+  },
+  {
+   "no": 16,
+   "text": "Canva menyediakan fitur 'Kolaborasi Tim' secara real-time. Manakah skenario yang PALING MENGGAMBARKAN manfaat fitur ini?",
+   "p": 0.43243243243243246,
+   "U": 6,
+   "L": 2,
+   "D": 0.4,
+   "rpb": 0.34440919041019724,
+   "correct": 16,
+   "incorrect": 12,
+   "blank": 9,
+   "key": "Beberapa anggota tim mengedit desain yang sama secara bersamaan dari lokasi berbeda dan dapat memberikan komentar langsung pada elemen desain",
+   "distr": [
+    [
+     "Beberapa anggota tim mengedit desain yang sama secara bersamaan dari lokasi berbeda dan dapat memberikan komentar langsung pada elemen desain",
+     16
+    ],
+    [
+     "Kolaborasi hanya bisa dilakukan jika semua anggota berada di lokasi dan perangkat yang sama",
+     6
+    ],
+    [
+     "Satu orang mengedit desain, lalu mengunduhnya, dan mengirimkan via email ke anggota lain untuk diedit selanjutnya",
+     4
+    ],
+    [
+     "Fitur ini hanya memungkinkan anggota tim melihat desain tanpa bisa mengeditnya",
+     2
+    ]
+   ],
+   "eff_distr": 3,
+   "nopt": 4,
+   "avg_t": "00:00:20",
+   "top_wrong": [
+    "Kolaborasi hanya bisa dilakukan jika semua anggota berada di lokasi dan perangkat yang sama",
+    6
+   ]
+  },
+  {
+   "no": 17,
+   "text": "Slogan utama Pelatihan Canva yang diselenggarakan pada 1 Juni 2026 di Aula Pastoran Paroki Mamajang adalah…",
+   "p": 0.08108108108108109,
+   "U": 0,
+   "L": 0,
+   "D": 0.0,
+   "rpb": -0.010001479920296564,
+   "correct": 3,
+   "incorrect": 25,
+   "blank": 9,
+   "key": "Desain Kreatif, Komunikasi Efektif",
+   "distr": [
+    [
+     "Kreativitas adalah Berkat, Melayani adalah Rasa Syukur",
+     15
+    ],
+    [
+     "Belajar Canva, Ciptakan Karya, Berbagi Inspirasi",
+     8
+    ],
+    [
+     "Desain Kreatif, Komunikasi Efektif",
+     3
+    ],
+    [
+     "Desain Mudah, Kreativitas Tanpa Batas",
+     2
+    ]
+   ],
+   "eff_distr": 3,
+   "nopt": 4,
+   "avg_t": "00:00:17",
+   "top_wrong": [
+    "Kreativitas adalah Berkat, Melayani adalah Rasa Syukur",
+    15
+   ]
+  },
+  {
+   "no": 18,
+   "text": "Seorang peserta ingin menambahkan elemen grafis (ikon bintang) ke dalam desain posternya di Canva. Urutan langkah yang BENAR adalah…",
+   "p": 0.4594594594594595,
+   "U": 7,
+   "L": 1,
+   "D": 0.6,
+   "rpb": 0.5094573629526685,
+   "correct": 17,
+   "incorrect": 10,
+   "blank": 10,
+   "key": "Klik menu 'Elemen' di panel kiri → ketik kata kunci di kolom pencarian → klik/drag elemen ke kanvas",
+   "distr": [
+    [
+     "Klik menu 'Elemen' di panel kiri → ketik kata kunci di kolom pencarian → klik/drag elemen ke kanvas",
+     17
+    ],
+    [
+     "Klik 'Template' → pilih template dengan ikon → hapus elemen yang tidak diperlukan",
+     6
+    ],
+    [
+     "Klik 'Teks' → pilih gaya teks → ubah menjadi ikon",
+     3
+    ],
+    [
+     "Klik 'Unggah' → pilih ikon dari komputer → drag ke kanvas",
+     1
+    ]
+   ],
+   "eff_distr": 2,
+   "nopt": 4,
+   "avg_t": "00:00:18",
+   "top_wrong": [
+    "Klik 'Template' → pilih template dengan ikon → hapus elemen yang tidak diperlukan",
+    6
+   ]
+  },
+  {
+   "no": 19,
+   "text": "Konsep 'Berkarya dengan Hati dan Ketulusan' dalam materi pelatihan menyebutkan 4 nilai utama dalam membuat desain. Manakah yang BUKAN bagian dari keempat nilai tersebut?",
+   "p": 0.35135135135135137,
+   "U": 5,
+   "L": 1,
+   "D": 0.4,
+   "rpb": 0.28756212198164266,
+   "correct": 13,
+   "incorrect": 16,
+   "blank": 8,
+   "key": "Inovasi Tanpa Batas — selalu menciptakan hal baru tanpa batasan etika",
+   "distr": [
+    [
+     "Inovasi Tanpa Batas — selalu menciptakan hal baru tanpa batasan etika",
+     13
+    ],
+    [
+     "Tanggung Jawab — bertanggung jawab atas setiap karya",
+     7
+    ],
+    [
+     "Ketulusan — berkarya dengan hati yang tulus untuk memuliakan Tuhan",
+     7
+    ],
+    [
+     "Disiplin — disiplin dalam proses, waktu, dan kualitas",
+     2
+    ]
+   ],
+   "eff_distr": 3,
+   "nopt": 4,
+   "avg_t": "00:00:20",
+   "top_wrong": [
+    "Tanggung Jawab — bertanggung jawab atas setiap karya",
+    7
+   ]
+  },
+  {
+   "no": 20,
+   "text": "Pemateri Pelatihan Canva adalah Dr., Ir., S.Kom., M.T., M.M., I.P.M. Norbertus Tri Suswanto Saptadi. Berdasarkan profil pemateri, beliau menjabat sebagai…",
+   "p": 0.5945945945945946,
+   "U": 9,
+   "L": 0,
+   "D": 0.9,
+   "rpb": 0.5715314605253415,
+   "correct": 22,
+   "incorrect": 2,
+   "blank": 13,
+   "key": "Reviewer Jurnal Internasional dan Dosen Tetap sekaligus Wakil Rektor I Universitas Atma Jaya Makassar",
+   "distr": [
+    [
+     "Reviewer Jurnal Internasional dan Dosen Tetap sekaligus Wakil Rektor I Universitas Atma Jaya Makassar",
+     22
+    ],
+    [
+     "Kepala Dinas Komunikasi dan Informatika Sulawesi Selatan",
+     1
+    ],
+    [
+     "Direktur Utama perusahaan teknologi di Jakarta",
+     1
+    ]
+   ],
+   "eff_distr": 0,
+   "nopt": 3,
+   "avg_t": "00:00:15",
+   "top_wrong": [
+    "Kepala Dinas Komunikasi dan Informatika Sulawesi Selatan",
+    1
+   ]
+  }
+ ],
+ "kr20": 0.7505959067371708,
+ "sem": 1.8707413544309632,
+ "mean": 6.45945945945946,
+ "sd": 3.7459498459478158,
+ "var": 14.032140248356464,
+ "upper": [
+  "vivi",
+  "Serafina",
+  "Catherine L",
+  "Lesly Marchrith",
+  "Cinta",
+  "Gerarda Ina",
+  "Yovita",
+  "Sri Suyani",
+  "Mirza Caroline",
+  "Enchi"
+ ],
+ "lower": [
+  "Oma min",
+  "farida johannes",
+  "Magdalena Rusel",
+  "Clementinus Relipurnawan",
+  "Ivonne",
+  "Katrina",
+  "Aqifah",
+  "Yofita",
+  "Sri Suyani",
+  "Sri Suyani"
+ ],
+ "uniq": [
+  "vivi",
+  "Serafina",
+  "Lesly Marchrith",
+  "Catherine L",
+  "Yovita",
+  "Gerarda Ina",
+  "Cinta",
+  "Sri Suyani**",
+  "Mirza Caroline",
+  "Enchi",
+  "Henny Tanasal",
+  "Helena Maria",
+  "wisye pangalila",
+  "Nona Nusaly",
+  "Tintin tityn",
+  "Meily6361",
+  "Demetria Tandiarrang",
+  "Agnes",
+  "Aqifah*",
+  "Marsia sairina",
+  "IngeLove",
+  "Maria",
+  "Ivo Emelia",
+  "Elisabet bunga",
+  "farida johannes",
+  "Oma min",
+  "Vonny T",
+  "Eleonora Voets",
+  "Magdalena Rusel",
+  "Clementinus Relipurnawan",
+  "Ivonne",
+  "Katrina",
+  "Yofita"
+ ],
+ "best": {
+  "vivi": "vivi",
+  "Serafina": "Serafina",
+  "Catherine L": "Catherine L",
+  "Lesly Marchrith": "Lesly Marchrith",
+  "Cinta": "Cinta",
+  "Gerarda Ina": "Gerarda Ina",
+  "Yovita": "Yovita",
+  "Sri Suyani": "Sri Suyani**",
+  "Mirza Caroline": "Mirza Caroline",
+  "Enchi": "Enchi",
+  "Henny Tanasal": "Henny Tanasal",
+  "wisye pangalila": "wisye pangalila",
+  "Helena Maria": "Helena Maria",
+  "Tintin tityn": "Tintin tityn",
+  "Demetria Tandiarrang": "Demetria Tandiarrang",
+  "Nona Nusaly": "Nona Nusaly",
+  "Meily6361": "Meily6361",
+  "Aqifah": "Aqifah*",
+  "Agnes": "Agnes",
+  "Marsia sairina": "Marsia sairina",
+  "IngeLove": "IngeLove",
+  "Ivo Emelia": "Ivo Emelia",
+  "Maria": "Maria",
+  "Elisabet bunga": "Elisabet bunga",
+  "farida johannes": "farida johannes",
+  "Eleonora Voets": "Eleonora Voets",
+  "Vonny T": "Vonny T",
+  "Oma min": "Oma min",
+  "Magdalena Rusel": "Magdalena Rusel",
+  "Clementinus Relipurnawan": "Clementinus Relipurnawan",
+  "Ivonne": "Ivonne",
+  "Katrina": "Katrina",
+  "Yofita": "Yofita"
+ },
+ "n_active": 33
+}
