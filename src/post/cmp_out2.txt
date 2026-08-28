@@ -1,0 +1,82 @@
+==============================================================================
+F. DAMPAK PENGELUARAN VINCENT (QA TESTER) DARI ANALISIS
+==============================================================================
+Vincent tercatat: 13 benar, 7 salah, 0 kosong, waktu total 1:28.
+Pola waktu per butir dari sheet Time Data memuat sejumlah entri 00:00:01 — khas
+penelusuran perangkat lunak, bukan orang yang membaca soal.
+
+Ukuran post-test                 TERMASUK DIKELUARKAN  Selisih
+Sesi                                   16         15       -1
+Rata-rata benar                     10.12       9.93    -0.19
+Akurasi seluruh sesi (%)            50.62      49.67    -0.96
+
+Seluruh angka post-test pada laporan ini memakai kolom DIKELUARKAN (n=15).
+
+==============================================================================
+G. SESI TUNTAS VERSUS SESI TIDAK TUNTAS
+==============================================================================
+Sesi tuntas (menjawab 20/20 butir) : 10 dari 15
+Sesi tidak tuntas                  : 5
+   Silvya Runturambi        menjawab 13/20, benar  7, waktu 10:30
+   Maria                    menjawab  3/20, benar  2, waktu 0:43
+   Ivonne runturambi        menjawab  2/20, benar  1, waktu 0:41
+   Tintin tityn             menjawab  0/20, benar  0, waktu 0:00
+   Yovita*                  menjawab  0/20, benar  0, waktu 0:00
+
+Sesi tuntas — rata-rata benar 13.90 dari 20 (69.5%), median 14.0, rentang 8-20, SD 3.33
+Sesi tuntas — mencapai KKM 14/20 : 6 dari 10 (60%)
+Sesi tuntas — KR-20 0.721, SEM +/-1.76 butir  (dibanding KR-20 0.935 atas seluruh 15 sesi)
+
+Catatan: KR-20 0,935 atas seluruh 15 sesi adalah angka semu. Dua sesi nol jawaban
+dan dua sesi hampir kosong menciptakan varians buatan yang menggelembungkan
+reliabilitas. Angka yang layak dilaporkan adalah 0.721 atas 10 sesi tuntas.
+
+==============================================================================
+H. ANALISIS BERPASANGAN ATAS SESI TUNTAS SAJA (n=8)
+==============================================================================
+Tiga peserta yang tampak 'turun' pada tabel B seluruhnya adalah sesi tidak tuntas:
+   Ivonne runturambi        pre  2 -> post  1, tetapi hanya menjawab 2/20 butir
+   Maria                    pre  6 -> post  2, tetapi hanya menjawab 3/20 butir
+   Tintin tityn             pre  7 -> post  0, tetapi hanya menjawab 0/20 butir
+Penurunannya adalah artefak sesi yang tidak diselesaikan, bukan kemunduran pengetahuan.
+
+Nama                       PRE  POST    Gain   Gain %
+Agnes Nurak                  6    20     +14     100%
+wisye pangalila              8    14      +6      50%
+Mirza Caroline               9    14      +5      45%
+Ivo Emelia                   6    10      +4      29%
+LESLY MARCHRITH NUSALY      12    15      +3      38%
+Gerarda Ina                 12    15      +3      38%
+Yovita                      10    13      +3      30%
+Marsia Sairina               6     8      +2      14%
+------------------------------------------------------------------------------
+RATA-RATA                 8.62 13.62   +5.00
+
+Naik 8, tetap 0, turun 0 dari 8 peserta.
+Rata-rata gain        : +5.00 butir (SD 3.85)
+Uji-t berpasangan     : t(7) = 3.67
+Nilai kritis t(7) pada alfa 0,05 dua sisi = 2.365  ->  SIGNIFIKAN
+Cohen dz              : 1.30 (besar)
+Gain ternormalisasi <g>: 0.440 (sedang)
+Uji tanda (binomial)  : 8 dari 8 naik, p satu sisi = 0.0039
+
+==============================================================================
+I. WAKTU PENGERJAAN
+==============================================================================
+Pre-test  : live, batas waktu per butir, rata-rata total 371 detik
+Post-test : mode Homework, dibuka 25 Agu 22:51 dan ditutup 28 Agu 22:07 (3 hari)
+            rata-rata waktu sesi tuntas 10 menit 18 detik (rentang 4:28 - 18:41)
+
+Nama (sesi tuntas)        Benar  Menit Detik/butir
+Agnes Nurak                  20    8.4     25.2
+Mien                         18   14.3     42.9
+LESLY MARCHRITH NUSALY       15    4.5     13.4
+Gerarda Ina                  15   18.7     56.0
+Mirza Caroline               14    7.0     21.1
+wisye pangalila              14    8.2     24.4
+Yovita                       13   14.8     44.5
+Netty Nusaly                 12    8.7     26.0
+Ivo Emelia                   10    9.1     27.1
+Marsia Sairina                8    9.5     28.6
+
+Korelasi waktu total dengan jumlah benar (sesi tuntas): r = 0.115

@@ -1,0 +1,62 @@
+==============================================================================
+J. VERIFIKASI KUNCI TERHADAP NASKAH SOAL (PDF) DAN PENGECOH MATI
+==============================================================================
+Naskah PDF tidak memuat tanda kunci (graded=false), tetapi memuat seluruh 4 opsi
+setiap butir. Kunci hasil rekonstruksi dicocokkan ke daftar opsi tersebut.
+
+No   Huruf  Kunci rekonstruksi (cocok ke opsi PDF)                 sim  Opsi
+Q1   c)     Kolaborasi real-time dengan fitur edit bersama        1.00     4
+Q2   c)     Bisnis buku tahunan sekolah bernama Fusion Books      1.00     4
+Q3   d)     Brand Kit                                             1.00     4
+Q4   c)     Gunakan sebanyak mungkin jenis font agar desain terl  1.00     4
+Q5   b)     Rp 95.000                                             1.00     4
+Q6   c)     PNG (kualitas tinggi, cocok untuk media sosial dan W  1.00     4
+Q7   b)     (1), (3), dan (4)                                     1.00     4
+Q8   d)     Pertobatan, penyesalan, kerendahan hati, dan persiap  1.00     4
+Q9   c)     MP4 (video berkualitas untuk presentasi dan konten v  1.00     4
+Q10  b)     Desain perlu diperbaiki: gunakan maksimal 2-4 warna   1.00     4
+Q11  d)     Pengaturan resolusi layar monitor                     1.00     4
+Q12  b)     Melanie Perkins, Cliff Obrecht, dan Cameron Adams     1.00     4
+Q13  b)     Eyedropper — ambil warna dari elemen/foto             1.00     4
+Q14  d)     1080 x 1080 px (Instagram Feed) 3/5                   0.96     4
+Q15  c)     Inovasi tanpa batas dalam setiap desain               1.00     4
+Q16  b)     Login → Pilih menu Template → Pilih jenis desain → C  1.00     4
+Q17  c)     Komentar langsung pada elemen desain di Canva         1.00     4
+Q18  c)     Menggunakan fitur AI Canva untuk membuat konten yang  1.00     4
+Q19  c)     Satu warna dasar dengan berbagai gradasi dan tingkat  1.00     4
+Q20  c)     Canva adalah sarana untuk berkarya, berkomunikasi ef  1.00     4
+
+Kunci yang tidak cocok mulus ke opsi PDF: tidak ada
+Jumlah opsi per butir: seluruhnya 4 (konsisten)
+
+PENGECOH MATI — opsi salah yang tidak dipilih oleh satu pun peserta (14 butir):
+   Q1   a) Penyimpanan cloud otomatis
+   Q1   d) Brand Kit tim
+   Q4   a) Gunakan ukuran teks judul lebih besar dari isi
+   Q4   d) Gunakan posisi strategis untuk membedakan informasi primer dan sek
+   Q5   c) Rp 110.000
+   Q5   d) Rp 130.000
+   Q6   b) MP4 (karena resolusi tinggi)
+   Q6   d) PPTX (agar mudah diedit kembali)
+   Q8   a) Kesucian, kemurnian, dan kemenangan
+   Q8   b) Kasih, kebajikan, dan pengorbanan
+   Q8   c) Harapan, kesuburan, dan pertumbuhan rohani
+   Q9   b) PDF (karena ukuran file lebih kecil)
+   Q10  a) Desain sudah baik karena penggunaan banyak warna menunjukkan kreat
+   Q10  c) Desain sudah tepat karena variasi font mempertegas hierarki inform
+   Q11  a) Elemen (Grafis, Stiker, Foto, Video)
+   Q12  a) Melanie Perkins, Cliff Obrecht, dan Steve Jobs
+   Q12  d) Cliff Obrecht, Cameron Adams, dan Larry Page
+   Q13  c) Gradien — buat transisi warna otomatis
+   Q14  c) 1200 x 630 px (Facebook Post)
+   Q18  a) Menggunakan AI Canva untuk membuat poster edukasi yang informatif 
+   Q19  a) Kombinasi warna yang berlawanan di roda warna (contoh: merah dan h
+   Q19  b) Kombinasi warna yang berdekatan di roda warna (contoh: biru dan hi
+   Q20  a) Canva semata-mata alat untuk membuat desain yang indah secara este
+   Q20  b) Canva adalah platform berbayar premium yang hanya cocok untuk desa
+   Q20  d) Canva hanya berguna untuk keperluan media sosial dan tidak relevan
+
+Total 25 dari 60 pengecoh (42%) tidak berfungsi sama sekali.
+Pengecoh yang tidak pernah dipilih tidak menyumbang informasi dan secara efektif
+mengubah butir 4 opsi menjadi butir 2-3 opsi, sehingga peluang tebakan benar naik
+dari 25%% menjadi 33-50%%.

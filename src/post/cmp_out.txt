@@ -1,0 +1,130 @@
+==============================================================================
+A. GAMBARAN UMUM  (Vincent dikeluarkan dari post-test)
+==============================================================================
+Ukuran                                   PRE-TEST      POST-TEST    Selisih
+Sesi terekam                                   37             15        -22
+Sesi aktif (>=1 jawaban)                       34             13        -21
+Butir                                          20             20          0
+Mode pelaksanaan                   Live (14 menit) Homework (3 hari)           
+Akurasi seluruh sesi (%)                    32.30          49.67     +17.37
+Akurasi sesi aktif (%)                      35.15          57.31     +22.16
+Akurasi atas butir dijawab (%)              44.18          68.35     +24.17
+Rata-rata benar (semua sesi)                 6.46           9.93      +3.47
+Rata-rata benar (sesi aktif)                 7.03          11.46      +4.43
+Median benar (sesi aktif)                    7.00          13.00      +6.00
+Simpangan baku                               3.75           6.41      +2.67
+Skor tertinggi                                 14             20         +6
+Skor terendah (sesi aktif)                      0              1         +1
+Reliabilitas KR-20                          0.751          0.935     +0.185
+Kesalahan baku ukur (butir)                  1.87           1.63      -0.24
+Mencapai KKM 14/20                              1              6         +5
+Sel tidak dijawab (%)                       26.89          27.33      +0.44
+
+==============================================================================
+B. ANALISIS BERPASANGAN — 11 PESERTA YANG MENGIKUTI KEDUA TES
+==============================================================================
+Nama post-test           Nama pre-test            PRE  POST    Gain   Gain %
+Agnes Nurak              Agnes                      6    20     +14     100%
+wisye pangalila          wisye pangalila            8    14      +6      50%
+Mirza Caroline           Mirza Caroline             9    14      +5      45%
+Ivo Emelia               Ivo Emelia                 6    10      +4      29%
+LESLY MARCHRITH NUSALY   Lesly Marchrith           12    15      +3      38%
+Gerarda Ina              Gerarda Ina               12    15      +3      38%
+Yovita                   Yovita                    10    13      +3      30%
+Marsia Sairina           Marsia sairina             6     8      +2      14%
+Ivonne runturambi        Ivonne                     2     1      -1      -6%
+Maria                    Maria                      6     2      -4     -29%
+Tintin tityn             Tintin tityn               7     0      -7     -54%
+------------------------------------------------------------------------------
+RATA-RATA                                        7.64 10.18   +2.55
+MEDIAN                                            7.0  13.0
+
+Naik   : 8 peserta
+Tetap  : 0 peserta
+Turun  : 3 peserta
+Rata-rata gain      : +2.55 butir (SD gain 5.47)
+Uji-t berpasangan   : t(10) = 1.54
+Ukuran efek Cohen dz: 0.47
+Gain ternormalisasi <g> (Hake) : 0.206
+
+==============================================================================
+C. PERBANDINGAN PER KONSTRUK — 14 konstruk yang diuji pada kedua tes
+==============================================================================
+Konstruk                                      pre p post p    Δ p    Jenis  Butir
+Ukuran kanvas per platform                     0.19   0.53  +0.34    mirip Q14→Q14
+Tujuan pelatihan                               0.32   0.67  +0.34    mirip Q13→Q20
+Asal usul Canva (Fusion Books)                 0.14   0.47  +0.33     sama Q10→Q2
+Format ekspor PNG untuk gambar                 0.22   0.53  +0.32     sama  Q7→Q6
+Pernyataan benar tentang Canva                 0.32   0.60  +0.28     sama  Q2→Q7
+Kolaborasi tim real-time                       0.43   0.67  +0.23     sama Q16→Q1
+Hierarki visual — pernyataan yang bertentang   0.43   0.60  +0.17     sama  Q6→Q4
+Batas jumlah font dan warna                    0.43   0.60  +0.17     sama Q15→Q10
+Menu panel kiri editor                         0.22   0.33  +0.12     sama Q5→Q11
+Empat nilai berkarya dengan hati               0.35   0.47  +0.12     sama Q19→Q15
+Teori warna (skema warna)                      0.30   0.40  +0.10    mirip Q8→Q19
+Paket harga Canva                              0.46   0.47  +0.01    mirip  Q3→Q5
+Urutan langkah prosedural di editor            0.46   0.33  -0.13    mirip Q18→Q16
+Komentar pada elemen desain                    0.43   0.13  -0.30    mirip Q16→Q17
+------------------------------------------------------------------------------
+RATA-RATA konstruk                             0.34   0.49  +0.15
+
+Butir post-test yang TIDAK ada padanannya di pre-test (6):
+   post Q3   p=0.27  Brand Kit
+   post Q8   p=0.73  Warna liturgi ungu
+   post Q9   p=0.60  Format ekspor MP4
+   post Q12  p=0.53  Tiga pendiri Canva
+   post Q13  p=0.53  Eyedropper
+   post Q18  p=0.47  Etika AI (Ensiklik Paus Leo XIV)
+
+Butir pre-test yang TIDAK diulang di post-test (6):
+   pre  Q1   p=0.16  Daftar akun gratis
+   pre  Q4   p=0.24  Cara kerja drag-and-drop
+   pre  Q11  p=0.24  Ruang kosong (white space)
+   pre  Q12  p=0.41  Manfaat penyimpanan cloud
+   pre  Q17  p=0.08  Slogan pelatihan
+   pre  Q20  p=0.59  Profil pemateri
+
+==============================================================================
+D. ANALISIS BUTIR POST-TEST (n=15, Vincent dikeluarkan)
+==============================================================================
+No   Pokok                                        B     S     0     p      D    rpb   Kat
+Q8   Pertobatan, penyesalan, kerendahan hati,    11     0     4  0.73   1.00   0.86 Mudah
+Q1   Kolaborasi real-time dengan fitur edit b    10     3     2  0.67   0.75   0.48 Sedang
+Q20  Canva adalah sarana untuk berkarya, berk    10     0     5  0.67   1.00   0.87 Sedang
+Q4   Gunakan sebanyak mungkin jenis font agar     9     2     4  0.60   1.00   0.88 Sedang
+Q7   (1), (3), dan (4)                            9     2     4  0.60   1.00   0.65 Sedang
+Q9   MP4 (video berkualitas untuk presentasi      9     2     4  0.60   1.00   0.76 Sedang
+Q10  Desain perlu diperbaiki: gunakan maksima     9     2     4  0.60   1.00   0.73 Sedang
+Q6   PNG (kualitas tinggi, cocok untuk media      8     3     4  0.53   0.75   0.59 Sedang
+Q12  Melanie Perkins, Cliff Obrecht, dan Came     8     3     4  0.53   1.00   0.74 Sedang
+Q13  Eyedropper — ambil warna dari elemen/fot     8     3     4  0.53   0.75   0.72 Sedang
+Q14  1080 x 1080 px (Instagram Feed)              8     2     5  0.53   1.00   0.87 Sedang
+Q2   Bisnis buku tahunan sekolah bernama Fusi     7     6     2  0.47   0.25   0.20 Sedang
+Q5   Rp 95.000                                    7     4     4  0.47   1.00   0.70 Sedang
+Q15  Inovasi tanpa batas dalam setiap desain      7     3     5  0.47   0.50   0.51 Sedang
+Q18  Menggunakan fitur AI Canva untuk membuat     7     3     5  0.47   0.75   0.76 Sedang
+Q19  Satu warna dasar dengan berbagai gradasi     6     4     5  0.40   1.00   0.75 Sedang
+Q11  Pengaturan resolusi layar monitor            5     6     4  0.33   0.50   0.56 Sedang
+Q16  Login → Pilih menu Template → Pilih jeni     5     5     5  0.33   0.75   0.60 Sedang
+Q3   Brand Kit                                    4     8     3  0.27   0.75   0.62 Sukar
+Q17  Komentar langsung pada elemen desain di      2     8     5  0.13   0.50   0.55 Sukar
+
+==============================================================================
+E. PESERTA POST-TEST
+==============================================================================
+#    Nama                         B     S     0  Nilai     Waktu   Pre-test
+1    Agnes Nurak                 20     0     0    100      8:25       6/20
+2    Mien                        18     2     0     90     14:18          —
+3    LESLY MARCHRITH NUSALY      15     5     0     75      4:28      12/20
+4    Gerarda Ina                 15     5     0     75     18:41      12/20
+5    Mirza Caroline              14     6     0     70      7:02       9/20
+6    wisye pangalila             14     6     0     70      8:09       8/20
+7    Yovita                      13     7     0     65     14:50      10/20
+8    Netty Nusaly                12     8     0     60      8:40          —
+9    Ivo Emelia                  10    10     0     50      9:03       6/20
+10   Marsia Sairina               8    12     0     40      9:32       6/20
+11   Silvya Runturambi            7     6     7     35     10:30          —
+12   Maria                        2     1    17     10      0:43       6/20
+13   Ivonne runturambi            1     1    18      5      0:41       2/20
+14   Tintin tityn                 0     0    20      0      0:00       7/20
+15   Yovita*                      0     0    20      0      0:00      10/20

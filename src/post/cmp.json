@@ -1,0 +1,358 @@
+{
+ "PAIR": [
+  [
+   "Agnes Nurak",
+   "Agnes",
+   6,
+   20
+  ],
+  [
+   "wisye pangalila",
+   "wisye pangalila",
+   8,
+   14
+  ],
+  [
+   "Mirza Caroline",
+   "Mirza Caroline",
+   9,
+   14
+  ],
+  [
+   "Ivo Emelia",
+   "Ivo Emelia",
+   6,
+   10
+  ],
+  [
+   "LESLY MARCHRITH NUSALY",
+   "Lesly Marchrith",
+   12,
+   15
+  ],
+  [
+   "Gerarda Ina",
+   "Gerarda Ina",
+   12,
+   15
+  ],
+  [
+   "Yovita",
+   "Yovita",
+   10,
+   13
+  ],
+  [
+   "Marsia Sairina",
+   "Marsia sairina",
+   6,
+   8
+  ],
+  [
+   "Ivonne runturambi",
+   "Ivonne",
+   2,
+   1
+  ],
+  [
+   "Maria",
+   "Maria",
+   6,
+   2
+  ],
+  [
+   "Tintin tityn",
+   "Tintin tityn",
+   7,
+   0
+  ]
+ ],
+ "crows": [
+  [
+   "Kolaborasi tim real-time",
+   0.43243243243243246,
+   0.6666666666666666,
+   0.23423423423423417,
+   "sama",
+   "Q16→Q1"
+  ],
+  [
+   "Asal usul Canva (Fusion Books)",
+   0.13513513513513514,
+   0.4666666666666667,
+   0.33153153153153153,
+   "sama",
+   "Q10→Q2"
+  ],
+  [
+   "Hierarki visual — pernyataan yang bertentangan",
+   0.43243243243243246,
+   0.6,
+   0.16756756756756752,
+   "sama",
+   "Q6→Q4"
+  ],
+  [
+   "Paket harga Canva",
+   0.4594594594594595,
+   0.4666666666666667,
+   0.007207207207207189,
+   "mirip",
+   "Q3→Q5"
+  ],
+  [
+   "Format ekspor PNG untuk gambar",
+   0.21621621621621623,
+   0.5333333333333333,
+   0.3171171171171171,
+   "sama",
+   "Q7→Q6"
+  ],
+  [
+   "Pernyataan benar tentang Canva",
+   0.32432432432432434,
+   0.6,
+   0.27567567567567564,
+   "sama",
+   "Q2→Q7"
+  ],
+  [
+   "Batas jumlah font dan warna",
+   0.43243243243243246,
+   0.6,
+   0.16756756756756752,
+   "sama",
+   "Q15→Q10"
+  ],
+  [
+   "Menu panel kiri editor",
+   0.21621621621621623,
+   0.3333333333333333,
+   0.11711711711711709,
+   "sama",
+   "Q5→Q11"
+  ],
+  [
+   "Ukuran kanvas per platform",
+   0.1891891891891892,
+   0.5333333333333333,
+   0.3441441441441441,
+   "mirip",
+   "Q14→Q14"
+  ],
+  [
+   "Empat nilai berkarya dengan hati",
+   0.35135135135135137,
+   0.4666666666666667,
+   0.1153153153153153,
+   "sama",
+   "Q19→Q15"
+  ],
+  [
+   "Urutan langkah prosedural di editor",
+   0.4594594594594595,
+   0.3333333333333333,
+   -0.12612612612612617,
+   "mirip",
+   "Q18→Q16"
+  ],
+  [
+   "Komentar pada elemen desain",
+   0.43243243243243246,
+   0.13333333333333333,
+   -0.29909909909909915,
+   "mirip",
+   "Q16→Q17"
+  ],
+  [
+   "Teori warna (skema warna)",
+   0.2972972972972973,
+   0.4,
+   0.10270270270270271,
+   "mirip",
+   "Q8→Q19"
+  ],
+  [
+   "Tujuan pelatihan",
+   0.32432432432432434,
+   0.6666666666666666,
+   0.3423423423423423,
+   "mirip",
+   "Q13→Q20"
+  ]
+ ],
+ "gains": [
+  14,
+  6,
+  5,
+  4,
+  3,
+  3,
+  3,
+  2,
+  -1,
+  -4,
+  -7
+ ],
+ "t": 1.5446292398954868,
+ "dz": 0.4657232389950172,
+ "sdg": 5.4655948690629526,
+ "sc_post": {
+  "Agnes Nurak": 20,
+  "Mien": 18,
+  "LESLY MARCHRITH NUSALY": 15,
+  "Gerarda Ina": 15,
+  "Mirza Caroline": 14,
+  "wisye pangalila": 14,
+  "Yovita": 13,
+  "Netty Nusaly": 12,
+  "Ivo Emelia": 10,
+  "Marsia Sairina": 8,
+  "Silvya Runturambi": 7,
+  "Maria": 2,
+  "Ivonne runturambi": 1,
+  "Tintin tityn": 0,
+  "Yovita*": 0
+ },
+ "sc_pre": {
+  "vivi": 14,
+  "Serafina": 13,
+  "Catherine L": 12,
+  "Lesly Marchrith": 12,
+  "Cinta": 12,
+  "Gerarda Ina": 12,
+  "Yovita": 10,
+  "Sri Suyani**": 9,
+  "Mirza Caroline": 9,
+  "Enchi": 9,
+  "Henny Tanasal": 8,
+  "wisye pangalila": 8,
+  "Helena Maria": 7,
+  "Tintin tityn": 7,
+  "Demetria Tandiarrang": 7,
+  "Nona Nusaly": 7,
+  "Meily6361": 7,
+  "Aqifah*": 7,
+  "Agnes": 6,
+  "Marsia sairina": 6,
+  "IngeLove": 6,
+  "Ivo Emelia": 6,
+  "Maria": 6,
+  "Elisabet bunga": 6,
+  "farida johannes": 5,
+  "Eleonora Voets": 5,
+  "Vonny T": 5,
+  "Oma min": 5,
+  "farida johannes*": 4,
+  "Magdalena Rusel": 4,
+  "Clementinus Relipurnawan": 2,
+  "Ivonne": 2,
+  "Katrina": 1,
+  "Aqifah": 0,
+  "Yofita": 0,
+  "Sri Suyani*": 0,
+  "Sri Suyani": 0
+ },
+ "NEW_POST": {
+  "3": "Brand Kit",
+  "8": "Warna liturgi ungu",
+  "9": "Format ekspor MP4",
+  "12": "Tiga pendiri Canva",
+  "13": "Eyedropper",
+  "18": "Etika AI (Ensiklik Paus Leo XIV)"
+ },
+ "DROP_PRE": {
+  "1": "Daftar akun gratis",
+  "4": "Cara kerja drag-and-drop",
+  "11": "Ruang kosong (white space)",
+  "12": "Manfaat penyimpanan cloud",
+  "17": "Slogan pelatihan",
+  "20": "Profil pemateri"
+ },
+ "MAP": [
+  [
+   1,
+   16,
+   "Kolaborasi tim real-time",
+   "sama"
+  ],
+  [
+   2,
+   10,
+   "Asal usul Canva (Fusion Books)",
+   "sama"
+  ],
+  [
+   4,
+   6,
+   "Hierarki visual — pernyataan yang bertentangan",
+   "sama"
+  ],
+  [
+   5,
+   3,
+   "Paket harga Canva",
+   "mirip"
+  ],
+  [
+   6,
+   7,
+   "Format ekspor PNG untuk gambar",
+   "sama"
+  ],
+  [
+   7,
+   2,
+   "Pernyataan benar tentang Canva",
+   "sama"
+  ],
+  [
+   10,
+   15,
+   "Batas jumlah font dan warna",
+   "sama"
+  ],
+  [
+   11,
+   5,
+   "Menu panel kiri editor",
+   "sama"
+  ],
+  [
+   14,
+   14,
+   "Ukuran kanvas per platform",
+   "mirip"
+  ],
+  [
+   15,
+   19,
+   "Empat nilai berkarya dengan hati",
+   "sama"
+  ],
+  [
+   16,
+   18,
+   "Urutan langkah prosedural di editor",
+   "mirip"
+  ],
+  [
+   17,
+   16,
+   "Komentar pada elemen desain",
+   "mirip"
+  ],
+  [
+   19,
+   8,
+   "Teori warna (skema warna)",
+   "mirip"
+  ],
+  [
+   20,
+   13,
+   "Tujuan pelatihan",
+   "mirip"
+  ]
+ ]
+}

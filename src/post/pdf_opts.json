@@ -1,0 +1,555 @@
+{
+ "OPT": {
+  "1": {
+   "stem": "Seorang guru ingin membuat materi presentasi yang akan diedit bersama-sama oleh 3 rekan guru secara bersamaan tanpa perlu mengirim file bolak-balik. Fitur Canva manakah yang PALING TEPAT digunakan?",
+   "opts": [
+    [
+     "a",
+     "Penyimpanan cloud otomatis"
+    ],
+    [
+     "b",
+     "Template berbagi pakai"
+    ],
+    [
+     "c",
+     "Kolaborasi real-time dengan fitur edit bersama"
+    ],
+    [
+     "d",
+     "Brand Kit tim"
+    ]
+   ]
+  },
+  "2": {
+   "stem": "Melanie Perkins mendirikan Canva terinspirasi dari bisnis sebelumnya. Apa bisnis awal yang menjadi cikal bakal lahirnya Canva?",
+   "opts": [
+    [
+     "a",
+     "Aplikasi edit foto berbasis mobile"
+    ],
+    [
+     "b",
+     "Platform desain logo online berbayar"
+    ],
+    [
+     "c",
+     "Bisnis buku tahunan sekolah bernama Fusion Books"
+    ],
+    [
+     "d",
+     "Layanan cetak undangan digital"
+    ]
+   ]
+  },
+  "3": {
+   "stem": "Seorang desainer profesional ingin memastikan warna, font, dan logo perusahaannya selalu konsisten di semua desain Canva yang dibuat oleh timnya. Fitur manakah yang PALING TEPAT untuk keperluan ini?",
+   "opts": [
+    [
+     "a",
+     "Eyedropper Tool"
+    ],
+    [
+     "b",
+     "Gradien Warna"
+    ],
+    [
+     "c",
+     "Warna Elemen Manual"
+    ],
+    [
+     "d",
+     "Brand Kit"
+    ]
+   ]
+  },
+  "4": {
+   "stem": "Dalam prinsip desain profesional di Canva, hierarki visual yang baik diterapkan untuk memandu mata pembaca. Mana pernyataan berikut yang BERTENTANGAN dengan prinsip hierarki visual?",
+   "opts": [
+    [
+     "a",
+     "Gunakan ukuran teks judul lebih besar dari isi"
+    ],
+    [
+     "b",
+     "Gunakan warna kontras untuk menonjolkan elemen penting"
+    ],
+    [
+     "c",
+     "Gunakan sebanyak mungkin jenis font agar desain terlihat beragam dan kaya"
+    ],
+    [
+     "d",
+     "Gunakan posisi strategis untuk membedakan informasi primer dan sekunder 1/5"
+    ]
+   ]
+  },
+  "5": {
+   "stem": "Berdasarkan informasi paket harga Canva untuk individu, berapakah harga paket Pro per bulan untuk satu orang?",
+   "opts": [
+    [
+     "a",
+     "Rp 75.000"
+    ],
+    [
+     "b",
+     "Rp 95.000"
+    ],
+    [
+     "c",
+     "Rp 110.000"
+    ],
+    [
+     "d",
+     "Rp 130.000"
+    ]
+   ]
+  },
+  "6": {
+   "stem": "Seorang anggota panitia gereja ingin mengekspor desain undangan ibadah dari Canva untuk dibagikan langsung melalui WhatsApp dengan kualitas gambar terbaik. Format file yang PALING SESUAI adalah:",
+   "opts": [
+    [
+     "a",
+     "PDF (karena untuk keperluan cetak)"
+    ],
+    [
+     "b",
+     "MP4 (karena resolusi tinggi)"
+    ],
+    [
+     "c",
+     "PNG (kualitas tinggi, cocok untuk media sosial dan WhatsApp)"
+    ],
+    [
+     "d",
+     "PPTX (agar mudah diedit kembali)"
+    ]
+   ]
+  },
+  "7": {
+   "stem": "Perhatikan pernyataan berikut tentang Canva: (1) Canva dapat diakses melalui laptop, tablet, dan HP (2) Canva hanya tersedia dalam versi berbayar (3) Canva memiliki fitur kolaborasi tim secara real-time (4) Canva menyediakan berbagai template gratis Pernyataan yang BENAR adalah:",
+   "opts": [
+    [
+     "a",
+     "(1), (2), dan (3)"
+    ],
+    [
+     "b",
+     "(1), (3), dan (4)"
+    ],
+    [
+     "c",
+     "(2), (3), dan (4)"
+    ],
+    [
+     "d",
+     "(1), (2), (3), dan (4)"
+    ]
+   ]
+  },
+  "8": {
+   "stem": "Dalam desain liturgi Gereja Katolik, warna UNGU digunakan pada perayaan tertentu. Makna teologis warna ungu yang TEPAT adalah:",
+   "opts": [
+    [
+     "a",
+     "Kesucian, kemurnian, dan kemenangan"
+    ],
+    [
+     "b",
+     "Kasih, kebajikan, dan pengorbanan"
+    ],
+    [
+     "c",
+     "Harapan, kesuburan, dan pertumbuhan rohani"
+    ],
+    [
+     "d",
+     "Pertobatan, penyesalan, kerendahan hati, dan persiapan batin"
+    ]
+   ]
+  },
+  "9": {
+   "stem": "Seorang peserta pelatihan ingin mengekspor video promosi kegiatan ISKA berdurasi 30 detik dari Canva. Format ekspor yang PALING TEPAT adalah:",
+   "opts": [
+    [
+     "a",
+     "GIF (untuk animasi singkat)"
+    ],
+    [
+     "b",
+     "PDF (karena ukuran file lebih kecil)"
+    ],
+    [
+     "c",
+     "MP4 (video berkualitas untuk presentasi dan konten video)"
+    ],
+    [
+     "d",
+     "PNG (kualitas gambar tertinggi) 2/5"
+    ]
+   ]
+  },
+  "10": {
+   "stem": "Seorang mahasiswa membuat infografis dengan 6 warna mencolok berbeda dan 5 jenis font. Menurut panduan desain profesional Canva, evaluasi yang PALING TEPAT atas desain tersebut adalah:",
+   "opts": [
+    [
+     "a",
+     "Desain sudah baik karena penggunaan banyak warna menunjukkan kreativitas tinggi"
+    ],
+    [
+     "b",
+     "Desain perlu diperbaiki: gunakan maksimal 2-4 warna utama dan 2-3 jenis font agar terbaca dengan baik"
+    ],
+    [
+     "c",
+     "Desain sudah tepat karena variasi font mempertegas hierarki informasi"
+    ],
+    [
+     "d",
+     "Desain perlu diperbaiki hanya pada pemilihan warna, jumlah font sudah ideal"
+    ]
+   ]
+  },
+  "11": {
+   "stem": "Fitur panel kiri pada editor Canva menyediakan berbagai menu. Manakah yang TIDAK termasuk dalam menu panel kiri Canva?",
+   "opts": [
+    [
+     "a",
+     "Elemen (Grafis, Stiker, Foto, Video)"
+    ],
+    [
+     "b",
+     "Teks dan pilihan font"
+    ],
+    [
+     "c",
+     "Unggahan file dari perangkat"
+    ],
+    [
+     "d",
+     "Pengaturan resolusi layar monitor"
+    ]
+   ]
+  },
+  "12": {
+   "stem": "Canva didirikan di kota Perth, Australia pada tanggal 1 Januari 2013. Siapa saja KETIGA pendiri Canva?",
+   "opts": [
+    [
+     "a",
+     "Melanie Perkins, Cliff Obrecht, dan Steve Jobs"
+    ],
+    [
+     "b",
+     "Melanie Perkins, Cliff Obrecht, dan Cameron Adams"
+    ],
+    [
+     "c",
+     "Melanie Perkins, Cameron Adams, dan Mark Zuckerberg"
+    ],
+    [
+     "d",
+     "Cliff Obrecht, Cameron Adams, dan Larry Page"
+    ]
+   ]
+  },
+  "13": {
+   "stem": "Seorang tim relawan ingin mengambil kode warna persis dari logo gereja yang sudah diunggah ke Canva, untuk digunakan pada teks dan elemen desain mereka. Fitur yang PALING TEPAT digunakan adalah:",
+   "opts": [
+    [
+     "a",
+     "Brand Kit — simpan warna brand"
+    ],
+    [
+     "b",
+     "Eyedropper — ambil warna dari elemen/foto"
+    ],
+    [
+     "c",
+     "Gradien — buat transisi warna otomatis"
+    ],
+    [
+     "d",
+     "Filter — sesuaikan tone warna gambar"
+    ]
+   ]
+  },
+  "14": {
+   "stem": "Seorang anggota ISKA ingin membuat konten Instagram Post untuk kampanye sosial. Berdasarkan standar ukuran konten media sosial di Canva, ukuran yang TEPAT untuk Instagram Feed adalah:",
+   "opts": [
+    [
+     "a",
+     "1280 x 720 px (YouTube Thumbnail)"
+    ],
+    [
+     "b",
+     "1080 x 1920 px (Instagram Story)"
+    ],
+    [
+     "c",
+     "1200 x 630 px (Facebook Post)"
+    ],
+    [
+     "d",
+     "1080 x 1080 px (Instagram Feed) 3/5"
+    ]
+   ]
+  },
+  "15": {
+   "stem": "Dalam konteks berkarya dengan hati dan ketulusan, materi pelatihan menyebutkan 4 nilai utama dalam membuat desain. Manakah yang BUKAN bagian dari keempat nilai tersebut?",
+   "opts": [
+    [
+     "a",
+     "Ketulusan dalam berkarya untuk memuliakan Tuhan"
+    ],
+    [
+     "b",
+     "Tanggung jawab atas setiap karya yang dibuat"
+    ],
+    [
+     "c",
+     "Inovasi tanpa batas dalam setiap desain"
+    ],
+    [
+     "d",
+     "Semangat melayani untuk menginspirasi sesama"
+    ]
+   ]
+  },
+  "16": {
+   "stem": "Manakah urutan langkah yang BENAR untuk memilih dan menggunakan template di Canva?",
+   "opts": [
+    [
+     "a",
+     "Login → Klik Buat Desain → Pilih Elemen → Temukan Template → Edit"
+    ],
+    [
+     "b",
+     "Login → Pilih menu Template → Pilih jenis desain → Cari template → Klik 'Gunakan template ini'"
+    ],
+    [
+     "c",
+     "Login → Pilih menu Proyek → Cari Template → Download → Edit Offline"
+    ],
+    [
+     "d",
+     "Login → Pilih menu Unggahan → Import Template → Gunakan"
+    ]
+   ]
+  },
+  "17": {
+   "stem": "Seorang anggota tim ingin memberikan masukan pada desain banner kegiatan yang sedang dikerjakan rekannya di Canva tanpa harus bertemu secara langsung. Fitur yang PALING EFEKTIF digunakan adalah:",
+   "opts": [
+    [
+     "a",
+     "Download desain lalu kirim via email beserta catatan revisi"
+    ],
+    [
+     "b",
+     "Penyimpanan cloud agar file dapat diakses kapan saja"
+    ],
+    [
+     "c",
+     "Komentar langsung pada elemen desain di Canva"
+    ],
+    [
+     "d",
+     "Share tautan desain tanpa akses edit"
+    ]
+   ]
+  },
+  "18": {
+   "stem": "Pernyataan Paus Leo XIV dalam Ensiklik 'Magnifica Humanitas' (2026) menegaskan bahwa AI harus menjadi alat untuk kebaikan bersama. Dalam konteks penggunaan Canva dengan fitur AI, tindakan mana yang PALING BERTENTANGAN dengan prinsip tersebut?",
+   "opts": [
+    [
+     "a",
+     "Menggunakan AI Canva untuk membuat poster edukasi yang informatif dan akurat"
+    ],
+    [
+     "b",
+     "Memanfaatkan fitur AI Canva untuk menghasilkan konten yang membangun dan menginspirasi"
+    ],
+    [
+     "c",
+     "Menggunakan fitur AI Canva untuk membuat konten yang memfitnah atau menyebarkan informasi palsu"
+    ],
+    [
+     "d",
+     "Menggunakan template AI Canva untuk mendukung kegiatan pelayanan gereja 4/5"
+    ]
+   ]
+  },
+  "19": {
+   "stem": "Seorang desainer Canva memilih kombinasi warna monokromatik untuk posternya. Apa yang dimaksud dengan skema warna monokromatik?",
+   "opts": [
+    [
+     "a",
+     "Kombinasi warna yang berlawanan di roda warna (contoh: merah dan hijau)"
+    ],
+    [
+     "b",
+     "Kombinasi warna yang berdekatan di roda warna (contoh: biru dan hijau)"
+    ],
+    [
+     "c",
+     "Satu warna dasar dengan berbagai gradasi dan tingkat kecerahan berbeda"
+    ],
+    [
+     "d",
+     "Kombinasi tiga warna yang membentuk segitiga pada roda warna"
+    ]
+   ]
+  },
+  "20": {
+   "stem": "Berdasarkan tujuan pelatihan Canva yang disampaikan dalam materi, manakah pernyataan yang PALING TEPAT menggambarkan esensi utama dari pelatihan ini?",
+   "opts": [
+    [
+     "a",
+     "Canva semata-mata alat untuk membuat desain yang indah secara estetika"
+    ],
+    [
+     "b",
+     "Canva adalah platform berbayar premium yang hanya cocok untuk desainer profesional"
+    ],
+    [
+     "c",
+     "Canva adalah sarana untuk berkarya, berkomunikasi efektif, dan memberikan dampak positif bagi sesama"
+    ],
+    [
+     "d",
+     "Canva hanya berguna untuk keperluan media sosial dan tidak relevan untuk pelayanan gereja 5/5"
+    ]
+   ]
+  }
+ },
+ "DEAD": {
+  "1": [
+   [
+    "a",
+    "Penyimpanan cloud otomatis"
+   ],
+   [
+    "d",
+    "Brand Kit tim"
+   ]
+  ],
+  "4": [
+   [
+    "a",
+    "Gunakan ukuran teks judul lebih besar dari isi"
+   ],
+   [
+    "d",
+    "Gunakan posisi strategis untuk membedakan informasi primer dan sekunder 1/5"
+   ]
+  ],
+  "5": [
+   [
+    "c",
+    "Rp 110.000"
+   ],
+   [
+    "d",
+    "Rp 130.000"
+   ]
+  ],
+  "6": [
+   [
+    "b",
+    "MP4 (karena resolusi tinggi)"
+   ],
+   [
+    "d",
+    "PPTX (agar mudah diedit kembali)"
+   ]
+  ],
+  "8": [
+   [
+    "a",
+    "Kesucian, kemurnian, dan kemenangan"
+   ],
+   [
+    "b",
+    "Kasih, kebajikan, dan pengorbanan"
+   ],
+   [
+    "c",
+    "Harapan, kesuburan, dan pertumbuhan rohani"
+   ]
+  ],
+  "9": [
+   [
+    "b",
+    "PDF (karena ukuran file lebih kecil)"
+   ]
+  ],
+  "10": [
+   [
+    "a",
+    "Desain sudah baik karena penggunaan banyak warna menunjukkan kreativitas tinggi"
+   ],
+   [
+    "c",
+    "Desain sudah tepat karena variasi font mempertegas hierarki informasi"
+   ]
+  ],
+  "11": [
+   [
+    "a",
+    "Elemen (Grafis, Stiker, Foto, Video)"
+   ]
+  ],
+  "12": [
+   [
+    "a",
+    "Melanie Perkins, Cliff Obrecht, dan Steve Jobs"
+   ],
+   [
+    "d",
+    "Cliff Obrecht, Cameron Adams, dan Larry Page"
+   ]
+  ],
+  "13": [
+   [
+    "c",
+    "Gradien — buat transisi warna otomatis"
+   ]
+  ],
+  "14": [
+   [
+    "c",
+    "1200 x 630 px (Facebook Post)"
+   ]
+  ],
+  "18": [
+   [
+    "a",
+    "Menggunakan AI Canva untuk membuat poster edukasi yang informatif dan akurat"
+   ]
+  ],
+  "19": [
+   [
+    "a",
+    "Kombinasi warna yang berlawanan di roda warna (contoh: merah dan hijau)"
+   ],
+   [
+    "b",
+    "Kombinasi warna yang berdekatan di roda warna (contoh: biru dan hijau)"
+   ]
+  ],
+  "20": [
+   [
+    "a",
+    "Canva semata-mata alat untuk membuat desain yang indah secara estetika"
+   ],
+   [
+    "b",
+    "Canva adalah platform berbayar premium yang hanya cocok untuk desainer profesional"
+   ],
+   [
+    "d",
+    "Canva hanya berguna untuk keperluan media sosial dan tidak relevan untuk pelayanan gereja 5/5"
+   ]
+  ]
+ },
+ "bad": []
+}

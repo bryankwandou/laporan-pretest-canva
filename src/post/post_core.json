@@ -1,0 +1,1631 @@
+{
+ "Q": [
+  {
+   "no": 1,
+   "text": "Seorang guru ingin membuat materi presentasi yang akan diedit bersama-sama oleh 3 rekan guru secara bersamaan tanpa perlu mengirim file bolak-balik. Fitur Canva manakah yang PALING TEPAT digunakan?",
+   "acc": 69,
+   "correct": 11,
+   "incorrect": 3,
+   "unatt": 2,
+   "avgt": "00:00:23",
+   "answers": {
+    "Agnes Nurak": "Kolaborasi real-time dengan fitur edit bersama",
+    "Mien": "Kolaborasi real-time dengan fitur edit bersama",
+    "LESLY MARCHRITH NUSALY": "Kolaborasi real-time dengan fitur edit bersama",
+    "Gerarda Ina": "Kolaborasi real-time dengan fitur edit bersama",
+    "Mirza Caroline": "Kolaborasi real-time dengan fitur edit bersama",
+    "wisye pangalila": "Template berbagi pakai",
+    "Yovita": "Template berbagi pakai",
+    "Netty Nusaly": "Kolaborasi real-time dengan fitur edit bersama",
+    "Ivo Emelia": "Kolaborasi real-time dengan fitur edit bersama",
+    "Marsia Sairina": "Kolaborasi real-time dengan fitur edit bersama",
+    "Silvya Runturambi": "Kolaborasi real-time dengan fitur edit bersama",
+    "Maria": "Kolaborasi real-time dengan fitur edit bersama",
+    "Ivonne runturambi": "Template berbagi pakai",
+    "Tintin tityn": null,
+    "Yovita*": null
+   },
+   "distr": [
+    [
+     "Kolaborasi real-time dengan fitur edit bersama",
+     10
+    ],
+    [
+     "Template berbagi pakai",
+     3
+    ]
+   ],
+   "key": "Kolaborasi real-time dengan fitur edit bersama",
+   "key_amb": 1,
+   "correct_excl": 10,
+   "incorrect_excl": 3,
+   "unatt_excl": 2,
+   "p": 0.6666666666666666,
+   "U": 4,
+   "L": 1,
+   "k": 4,
+   "D": 0.75,
+   "rpb": 0.4777862104001097
+  },
+  {
+   "no": 2,
+   "text": "Melanie Perkins mendirikan Canva terinspirasi dari bisnis sebelumnya. Apa bisnis awal yang menjadi cikal bakal lahirnya Canva?",
+   "acc": 50,
+   "correct": 8,
+   "incorrect": 6,
+   "unatt": 2,
+   "avgt": "00:00:25",
+   "answers": {
+    "Agnes Nurak": "Bisnis buku tahunan sekolah bernama Fusion Books",
+    "Mien": "Platform desain logo online berbayar",
+    "LESLY MARCHRITH NUSALY": "Bisnis buku tahunan sekolah bernama Fusion Books",
+    "Gerarda Ina": "Bisnis buku tahunan sekolah bernama Fusion Books",
+    "Mirza Caroline": "Bisnis buku tahunan sekolah bernama Fusion Books",
+    "wisye pangalila": "Aplikasi edit foto berbasis mobile",
+    "Yovita": "Aplikasi edit foto berbasis mobile",
+    "Netty Nusaly": "Bisnis buku tahunan sekolah bernama Fusion Books",
+    "Ivo Emelia": "Aplikasi edit foto berbasis mobile",
+    "Marsia Sairina": "Platform desain logo online berbayar",
+    "Silvya Runturambi": "Layanan cetak undangan digital",
+    "Maria": "Bisnis buku tahunan sekolah bernama Fusion Books",
+    "Ivonne runturambi": "Bisnis buku tahunan sekolah bernama Fusion Books",
+    "Tintin tityn": null,
+    "Yovita*": null
+   },
+   "distr": [
+    [
+     "Bisnis buku tahunan sekolah bernama Fusion Books",
+     7
+    ],
+    [
+     "Aplikasi edit foto berbasis mobile",
+     3
+    ],
+    [
+     "Platform desain logo online berbayar",
+     2
+    ],
+    [
+     "Layanan cetak undangan digital",
+     1
+    ]
+   ],
+   "key": "Bisnis buku tahunan sekolah bernama Fusion Books",
+   "key_amb": 1,
+   "correct_excl": 7,
+   "incorrect_excl": 6,
+   "unatt_excl": 2,
+   "p": 0.4666666666666667,
+   "U": 3,
+   "L": 2,
+   "k": 4,
+   "D": 0.25,
+   "rpb": 0.1972557098303336
+  },
+  {
+   "no": 3,
+   "text": "Seorang desainer profesional ingin memastikan warna, font, dan logo perusahaannya selalu konsisten di semua desain Canva yang dibuat oleh timnya. Fitur manakah yang PALING TEPAT untuk keperluan ini?",
+   "acc": 25,
+   "correct": 4,
+   "incorrect": 9,
+   "unatt": 3,
+   "avgt": "00:00:25",
+   "answers": {
+    "Agnes Nurak": "Brand Kit",
+    "Mien": "Brand Kit",
+    "LESLY MARCHRITH NUSALY": "Warna Elemen Manual",
+    "Gerarda Ina": "Brand Kit",
+    "Mirza Caroline": "Eyedropper Tool",
+    "wisye pangalila": "Warna Elemen Manual",
+    "Yovita": "Brand Kit",
+    "Netty Nusaly": "Warna Elemen Manual",
+    "Ivo Emelia": "Gradien Warna",
+    "Marsia Sairina": "Gradien Warna",
+    "Silvya Runturambi": "Warna Elemen Manual",
+    "Maria": "Warna Elemen Manual",
+    "Ivonne runturambi": null,
+    "Tintin tityn": null,
+    "Yovita*": null
+   },
+   "distr": [
+    [
+     "Warna Elemen Manual",
+     5
+    ],
+    [
+     "Brand Kit",
+     4
+    ],
+    [
+     "Gradien Warna",
+     2
+    ],
+    [
+     "Eyedropper Tool",
+     1
+    ]
+   ],
+   "key": "Brand Kit",
+   "key_amb": 1,
+   "correct_excl": 4,
+   "incorrect_excl": 8,
+   "unatt_excl": 3,
+   "p": 0.26666666666666666,
+   "U": 3,
+   "L": 0,
+   "k": 4,
+   "D": 0.75,
+   "rpb": 0.6174547500757154
+  },
+  {
+   "no": 4,
+   "text": "Dalam prinsip desain profesional di Canva, hierarki visual yang baik diterapkan untuk memandu mata pembaca. Mana pernyataan berikut yang BERTENTANGAN dengan prinsip hierarki visual?",
+   "acc": 62,
+   "correct": 10,
+   "incorrect": 2,
+   "unatt": 4,
+   "avgt": "00:00:31",
+   "answers": {
+    "Agnes Nurak": "Gunakan sebanyak mungkin jenis font agar desain terlihat beragam dan kaya",
+    "Mien": "Gunakan sebanyak mungkin jenis font agar desain terlihat beragam dan kaya",
+    "LESLY MARCHRITH NUSALY": "Gunakan sebanyak mungkin jenis font agar desain terlihat beragam dan kaya",
+    "Gerarda Ina": "Gunakan sebanyak mungkin jenis font agar desain terlihat beragam dan kaya",
+    "Mirza Caroline": "Gunakan sebanyak mungkin jenis font agar desain terlihat beragam dan kaya",
+    "wisye pangalila": "Gunakan sebanyak mungkin jenis font agar desain terlihat beragam dan kaya",
+    "Yovita": "Gunakan sebanyak mungkin jenis font agar desain terlihat beragam dan kaya",
+    "Netty Nusaly": "Gunakan sebanyak mungkin jenis font agar desain terlihat beragam dan kaya",
+    "Ivo Emelia": "Gunakan sebanyak mungkin jenis font agar desain terlihat beragam dan kaya",
+    "Marsia Sairina": "Gunakan warna kontras untuk menonjolkan elemen penting",
+    "Silvya Runturambi": "Gunakan warna kontras untuk menonjolkan elemen penting",
+    "Maria": null,
+    "Ivonne runturambi": null,
+    "Tintin tityn": null,
+    "Yovita*": null
+   },
+   "distr": [
+    [
+     "Gunakan sebanyak mungkin jenis font agar desain terlihat beragam dan kaya",
+     9
+    ],
+    [
+     "Gunakan warna kontras untuk menonjolkan elemen penting",
+     2
+    ]
+   ],
+   "key": "Gunakan sebanyak mungkin jenis font agar desain terlihat beragam dan kaya",
+   "key_amb": 1,
+   "correct_excl": 9,
+   "incorrect_excl": 2,
+   "unatt_excl": 4,
+   "p": 0.6,
+   "U": 4,
+   "L": 0,
+   "k": 4,
+   "D": 1.0,
+   "rpb": 0.8827199910067024
+  },
+  {
+   "no": 5,
+   "text": "Berdasarkan informasi paket harga Canva untuk individu, berapakah harga paket Pro per bulan untuk satu orang?",
+   "acc": 50,
+   "correct": 8,
+   "incorrect": 4,
+   "unatt": 4,
+   "avgt": "00:00:14",
+   "answers": {
+    "Agnes Nurak": "Rp 95.000",
+    "Mien": "Rp 95.000",
+    "LESLY MARCHRITH NUSALY": "Rp 95.000",
+    "Gerarda Ina": "Rp 95.000",
+    "Mirza Caroline": "Rp 95.000",
+    "wisye pangalila": "Rp 75.000",
+    "Yovita": "Rp 95.000",
+    "Netty Nusaly": "Rp 75.000",
+    "Ivo Emelia": "Rp 75.000",
+    "Marsia Sairina": "Rp 95.000",
+    "Silvya Runturambi": "Rp 75.000",
+    "Maria": null,
+    "Ivonne runturambi": null,
+    "Tintin tityn": null,
+    "Yovita*": null
+   },
+   "distr": [
+    [
+     "Rp 95.000",
+     7
+    ],
+    [
+     "Rp 75.000",
+     4
+    ]
+   ],
+   "key": "Rp 95.000",
+   "key_amb": 1,
+   "correct_excl": 7,
+   "incorrect_excl": 4,
+   "unatt_excl": 4,
+   "p": 0.4666666666666667,
+   "U": 4,
+   "L": 0,
+   "k": 4,
+   "D": 1.0,
+   "rpb": 0.6973406079917425
+  },
+  {
+   "no": 6,
+   "text": "Seorang anggota panitia gereja ingin mengekspor desain undangan ibadah dari Canva untuk dibagikan langsung melalui WhatsApp dengan kualitas gambar terbaik. Format file yang PALING SESUAI adalah:",
+   "acc": 56,
+   "correct": 9,
+   "incorrect": 3,
+   "unatt": 4,
+   "avgt": "00:00:28",
+   "answers": {
+    "Agnes Nurak": "PNG (kualitas tinggi, cocok untuk media sosial dan WhatsApp)",
+    "Mien": "PNG (kualitas tinggi, cocok untuk media sosial dan WhatsApp)",
+    "LESLY MARCHRITH NUSALY": "PNG (kualitas tinggi, cocok untuk media sosial dan WhatsApp)",
+    "Gerarda Ina": "PDF (karena untuk keperluan cetak)",
+    "Mirza Caroline": "PNG (kualitas tinggi, cocok untuk media sosial dan WhatsApp)",
+    "wisye pangalila": "PNG (kualitas tinggi, cocok untuk media sosial dan WhatsApp)",
+    "Yovita": "PDF (karena untuk keperluan cetak)",
+    "Netty Nusaly": "PNG (kualitas tinggi, cocok untuk media sosial dan WhatsApp)",
+    "Ivo Emelia": "PDF (karena untuk keperluan cetak)",
+    "Marsia Sairina": "PNG (kualitas tinggi, cocok untuk media sosial dan WhatsApp)",
+    "Silvya Runturambi": "PNG (kualitas tinggi, cocok untuk media sosial dan WhatsApp)",
+    "Maria": null,
+    "Ivonne runturambi": null,
+    "Tintin tityn": null,
+    "Yovita*": null
+   },
+   "distr": [
+    [
+     "PNG (kualitas tinggi, cocok untuk media sosial dan WhatsApp)",
+     8
+    ],
+    [
+     "PDF (karena untuk keperluan cetak)",
+     3
+    ]
+   ],
+   "key": "PNG (kualitas tinggi, cocok untuk media sosial dan WhatsApp)",
+   "key_amb": 1,
+   "correct_excl": 8,
+   "incorrect_excl": 3,
+   "unatt_excl": 4,
+   "p": 0.5333333333333333,
+   "U": 3,
+   "L": 0,
+   "k": 4,
+   "D": 0.75,
+   "rpb": 0.5945453789252307
+  },
+  {
+   "no": 7,
+   "text": "Perhatikan pernyataan berikut tentang Canva:\n(1) Canva dapat diakses melalui laptop, tablet, dan HP\n(2) Canva hanya tersedia dalam versi berbayar\n(3) Canva memiliki fitur kolaborasi tim secara real-time\n(4) Canva menyediakan berbagai template gratis\n\nPernyataan yang BENAR adalah:",
+   "acc": 62,
+   "correct": 10,
+   "incorrect": 2,
+   "unatt": 4,
+   "avgt": "00:00:31",
+   "answers": {
+    "Agnes Nurak": "(1), (3), dan (4)",
+    "Mien": "(1), (3), dan (4)",
+    "LESLY MARCHRITH NUSALY": "(1), (3), dan (4)",
+    "Gerarda Ina": "(1), (3), dan (4)",
+    "Mirza Caroline": "(1), (2), (3), dan (4)",
+    "wisye pangalila": "(1), (3), dan (4)",
+    "Yovita": "(1), (3), dan (4)",
+    "Netty Nusaly": "(1), (2), dan (3)",
+    "Ivo Emelia": "(1), (3), dan (4)",
+    "Marsia Sairina": "(1), (3), dan (4)",
+    "Silvya Runturambi": "(1), (3), dan (4)",
+    "Maria": null,
+    "Ivonne runturambi": null,
+    "Tintin tityn": null,
+    "Yovita*": null
+   },
+   "distr": [
+    [
+     "(1), (3), dan (4)",
+     9
+    ],
+    [
+     "(1), (2), (3), dan (4)",
+     1
+    ],
+    [
+     "(1), (2), dan (3)",
+     1
+    ]
+   ],
+   "key": "(1), (3), dan (4)",
+   "key_amb": 1,
+   "correct_excl": 9,
+   "incorrect_excl": 2,
+   "unatt_excl": 4,
+   "p": 0.6,
+   "U": 4,
+   "L": 0,
+   "k": 4,
+   "D": 1.0,
+   "rpb": 0.6493084549231993
+  },
+  {
+   "no": 8,
+   "text": "Dalam desain liturgi Gereja Katolik, warna UNGU digunakan pada perayaan tertentu. Makna teologis warna ungu yang TEPAT adalah:",
+   "acc": 75,
+   "correct": 12,
+   "incorrect": 0,
+   "unatt": 4,
+   "avgt": "00:00:24",
+   "answers": {
+    "Agnes Nurak": "Pertobatan, penyesalan, kerendahan hati, dan persiapan batin",
+    "Mien": "Pertobatan, penyesalan, kerendahan hati, dan persiapan batin",
+    "LESLY MARCHRITH NUSALY": "Pertobatan, penyesalan, kerendahan hati, dan persiapan batin",
+    "Gerarda Ina": "Pertobatan, penyesalan, kerendahan hati, dan persiapan batin",
+    "Mirza Caroline": "Pertobatan, penyesalan, kerendahan hati, dan persiapan batin",
+    "wisye pangalila": "Pertobatan, penyesalan, kerendahan hati, dan persiapan batin",
+    "Yovita": "Pertobatan, penyesalan, kerendahan hati, dan persiapan batin",
+    "Netty Nusaly": "Pertobatan, penyesalan, kerendahan hati, dan persiapan batin",
+    "Ivo Emelia": "Pertobatan, penyesalan, kerendahan hati, dan persiapan batin",
+    "Marsia Sairina": "Pertobatan, penyesalan, kerendahan hati, dan persiapan batin",
+    "Silvya Runturambi": "Pertobatan, penyesalan, kerendahan hati, dan persiapan batin",
+    "Maria": null,
+    "Ivonne runturambi": null,
+    "Tintin tityn": null,
+    "Yovita*": null
+   },
+   "distr": [
+    [
+     "Pertobatan, penyesalan, kerendahan hati, dan persiapan batin",
+     11
+    ]
+   ],
+   "key": "Pertobatan, penyesalan, kerendahan hati, dan persiapan batin",
+   "key_amb": 1,
+   "correct_excl": 11,
+   "incorrect_excl": 0,
+   "unatt_excl": 4,
+   "p": 0.7333333333333333,
+   "U": 4,
+   "L": 0,
+   "k": 4,
+   "D": 1.0,
+   "rpb": 0.8634963636845668
+  },
+  {
+   "no": 9,
+   "text": "Seorang peserta pelatihan ingin mengekspor video promosi kegiatan ISKA berdurasi 30 detik dari Canva. Format ekspor yang PALING TEPAT adalah:",
+   "acc": 62,
+   "correct": 10,
+   "incorrect": 2,
+   "unatt": 4,
+   "avgt": "00:00:22",
+   "answers": {
+    "Agnes Nurak": "MP4 (video berkualitas untuk presentasi dan konten video)",
+    "Mien": "MP4 (video berkualitas untuk presentasi dan konten video)",
+    "LESLY MARCHRITH NUSALY": "MP4 (video berkualitas untuk presentasi dan konten video)",
+    "Gerarda Ina": "MP4 (video berkualitas untuk presentasi dan konten video)",
+    "Mirza Caroline": "MP4 (video berkualitas untuk presentasi dan konten video)",
+    "wisye pangalila": "MP4 (video berkualitas untuk presentasi dan konten video)",
+    "Yovita": "PNG (kualitas gambar tertinggi)",
+    "Netty Nusaly": "MP4 (video berkualitas untuk presentasi dan konten video)",
+    "Ivo Emelia": "MP4 (video berkualitas untuk presentasi dan konten video)",
+    "Marsia Sairina": "GIF (untuk animasi singkat)",
+    "Silvya Runturambi": "MP4 (video berkualitas untuk presentasi dan konten video)",
+    "Maria": null,
+    "Ivonne runturambi": null,
+    "Tintin tityn": null,
+    "Yovita*": null
+   },
+   "distr": [
+    [
+     "MP4 (video berkualitas untuk presentasi dan konten video)",
+     9
+    ],
+    [
+     "PNG (kualitas gambar tertinggi)",
+     1
+    ],
+    [
+     "GIF (untuk animasi singkat)",
+     1
+    ]
+   ],
+   "key": "MP4 (video berkualitas untuk presentasi dan konten video)",
+   "key_amb": 1,
+   "correct_excl": 9,
+   "incorrect_excl": 2,
+   "unatt_excl": 4,
+   "p": 0.6,
+   "U": 4,
+   "L": 0,
+   "k": 4,
+   "D": 1.0,
+   "rpb": 0.7554046076884281
+  },
+  {
+   "no": 10,
+   "text": "Seorang mahasiswa membuat infografis dengan 6 warna mencolok berbeda dan 5 jenis font. Menurut panduan desain profesional Canva, evaluasi yang PALING TEPAT atas desain tersebut adalah:",
+   "acc": 62,
+   "correct": 10,
+   "incorrect": 2,
+   "unatt": 4,
+   "avgt": "00:00:48",
+   "answers": {
+    "Agnes Nurak": "Desain perlu diperbaiki: gunakan maksimal 2-4 warna utama dan 2-3 jenis font agar terbaca dengan baik",
+    "Mien": "Desain perlu diperbaiki: gunakan maksimal 2-4 warna utama dan 2-3 jenis font agar terbaca dengan baik",
+    "LESLY MARCHRITH NUSALY": "Desain perlu diperbaiki: gunakan maksimal 2-4 warna utama dan 2-3 jenis font agar terbaca dengan baik",
+    "Gerarda Ina": "Desain perlu diperbaiki: gunakan maksimal 2-4 warna utama dan 2-3 jenis font agar terbaca dengan baik",
+    "Mirza Caroline": "Desain perlu diperbaiki: gunakan maksimal 2-4 warna utama dan 2-3 jenis font agar terbaca dengan baik",
+    "wisye pangalila": "Desain perlu diperbaiki hanya pada pemilihan warna, jumlah font sudah ideal",
+    "Yovita": "Desain perlu diperbaiki: gunakan maksimal 2-4 warna utama dan 2-3 jenis font agar terbaca dengan baik",
+    "Netty Nusaly": "Desain perlu diperbaiki: gunakan maksimal 2-4 warna utama dan 2-3 jenis font agar terbaca dengan baik",
+    "Ivo Emelia": "Desain perlu diperbaiki: gunakan maksimal 2-4 warna utama dan 2-3 jenis font agar terbaca dengan baik",
+    "Marsia Sairina": "Desain perlu diperbaiki hanya pada pemilihan warna, jumlah font sudah ideal",
+    "Silvya Runturambi": "Desain perlu diperbaiki: gunakan maksimal 2-4 warna utama dan 2-3 jenis font agar terbaca dengan baik",
+    "Maria": null,
+    "Ivonne runturambi": null,
+    "Tintin tityn": null,
+    "Yovita*": null
+   },
+   "distr": [
+    [
+     "Desain perlu diperbaiki: gunakan maksimal 2-4 warna utama dan 2-3 jenis font agar terbaca dengan baik",
+     9
+    ],
+    [
+     "Desain perlu diperbaiki hanya pada pemilihan warna, jumlah font sudah ideal",
+     2
+    ]
+   ],
+   "key": "Desain perlu diperbaiki: gunakan maksimal 2-4 warna utama dan 2-3 jenis font agar terbaca dengan baik",
+   "key_amb": 1,
+   "correct_excl": 9,
+   "incorrect_excl": 2,
+   "unatt_excl": 4,
+   "p": 0.6,
+   "U": 4,
+   "L": 0,
+   "k": 4,
+   "D": 1.0,
+   "rpb": 0.7341853771353823
+  },
+  {
+   "no": 11,
+   "text": "Fitur panel kiri pada editor Canva menyediakan berbagai menu. Manakah yang TIDAK termasuk dalam menu panel kiri Canva?",
+   "acc": 31,
+   "correct": 5,
+   "incorrect": 7,
+   "unatt": 4,
+   "avgt": "00:00:29",
+   "answers": {
+    "Agnes Nurak": "Pengaturan resolusi layar monitor",
+    "Mien": "Pengaturan resolusi layar monitor",
+    "LESLY MARCHRITH NUSALY": "Teks dan pilihan font",
+    "Gerarda Ina": "Unggahan file dari perangkat",
+    "Mirza Caroline": "Unggahan file dari perangkat",
+    "wisye pangalila": "Pengaturan resolusi layar monitor",
+    "Yovita": "Pengaturan resolusi layar monitor",
+    "Netty Nusaly": "Unggahan file dari perangkat",
+    "Ivo Emelia": "Pengaturan resolusi layar monitor",
+    "Marsia Sairina": "Unggahan file dari perangkat",
+    "Silvya Runturambi": "Unggahan file dari perangkat",
+    "Maria": null,
+    "Ivonne runturambi": null,
+    "Tintin tityn": null,
+    "Yovita*": null
+   },
+   "distr": [
+    [
+     "Pengaturan resolusi layar monitor",
+     5
+    ],
+    [
+     "Unggahan file dari perangkat",
+     5
+    ],
+    [
+     "Teks dan pilihan font",
+     1
+    ]
+   ],
+   "key": "Pengaturan resolusi layar monitor",
+   "key_amb": 2,
+   "key_solved": true,
+   "correct_excl": 5,
+   "incorrect_excl": 6,
+   "unatt_excl": 4,
+   "p": 0.3333333333333333,
+   "U": 2,
+   "L": 0,
+   "k": 4,
+   "D": 0.5,
+   "rpb": 0.5586423383139745
+  },
+  {
+   "no": 12,
+   "text": "Canva didirikan di kota Perth, Australia pada tanggal 1 Januari 2013. Siapa saja KETIGA pendiri Canva?",
+   "acc": 50,
+   "correct": 8,
+   "incorrect": 4,
+   "unatt": 4,
+   "avgt": "00:00:33",
+   "answers": {
+    "Agnes Nurak": "Melanie Perkins, Cliff Obrecht, dan Cameron Adams",
+    "Mien": "Melanie Perkins, Cliff Obrecht, dan Cameron Adams",
+    "LESLY MARCHRITH NUSALY": "Melanie Perkins, Cliff Obrecht, dan Cameron Adams",
+    "Gerarda Ina": "Melanie Perkins, Cliff Obrecht, dan Cameron Adams",
+    "Mirza Caroline": "Melanie Perkins, Cliff Obrecht, dan Cameron Adams",
+    "wisye pangalila": "Melanie Perkins, Cliff Obrecht, dan Cameron Adams",
+    "Yovita": "Melanie Perkins, Cameron Adams, dan Mark Zuckerberg",
+    "Netty Nusaly": "Melanie Perkins, Cliff Obrecht, dan Cameron Adams",
+    "Ivo Emelia": "Melanie Perkins, Cameron Adams, dan Mark Zuckerberg",
+    "Marsia Sairina": "Melanie Perkins, Cameron Adams, dan Mark Zuckerberg",
+    "Silvya Runturambi": "Melanie Perkins, Cliff Obrecht, dan Cameron Adams",
+    "Maria": null,
+    "Ivonne runturambi": null,
+    "Tintin tityn": null,
+    "Yovita*": null
+   },
+   "distr": [
+    [
+     "Melanie Perkins, Cliff Obrecht, dan Cameron Adams",
+     8
+    ],
+    [
+     "Melanie Perkins, Cameron Adams, dan Mark Zuckerberg",
+     3
+    ]
+   ],
+   "key": "Melanie Perkins, Cliff Obrecht, dan Cameron Adams",
+   "key_amb": 1,
+   "correct_excl": 8,
+   "incorrect_excl": 3,
+   "unatt_excl": 4,
+   "p": 0.5333333333333333,
+   "U": 4,
+   "L": 0,
+   "k": 4,
+   "D": 1.0,
+   "rpb": 0.7404034742223083
+  },
+  {
+   "no": 13,
+   "text": "Seorang tim relawan ingin mengambil kode warna persis dari logo gereja yang sudah diunggah ke Canva, untuk digunakan pada teks dan elemen desain mereka. Fitur yang PALING TEPAT digunakan adalah:",
+   "acc": 56,
+   "correct": 9,
+   "incorrect": 3,
+   "unatt": 4,
+   "avgt": "00:00:28",
+   "answers": {
+    "Agnes Nurak": "Eyedropper — ambil warna dari elemen/foto",
+    "Mien": "Eyedropper — ambil warna dari elemen/foto",
+    "LESLY MARCHRITH NUSALY": "Eyedropper — ambil warna dari elemen/foto",
+    "Gerarda Ina": "Brand Kit — simpan warna brand",
+    "Mirza Caroline": "Eyedropper — ambil warna dari elemen/foto",
+    "wisye pangalila": "Eyedropper — ambil warna dari elemen/foto",
+    "Yovita": "Eyedropper — ambil warna dari elemen/foto",
+    "Netty Nusaly": "Eyedropper — ambil warna dari elemen/foto",
+    "Ivo Emelia": "Filter — sesuaikan tone warna gambar",
+    "Marsia Sairina": "Eyedropper — ambil warna dari elemen/foto",
+    "Silvya Runturambi": "Filter — sesuaikan tone warna gambar",
+    "Maria": null,
+    "Ivonne runturambi": null,
+    "Tintin tityn": null,
+    "Yovita*": null
+   },
+   "distr": [
+    [
+     "Eyedropper — ambil warna dari elemen/foto",
+     8
+    ],
+    [
+     "Filter — sesuaikan tone warna gambar",
+     2
+    ],
+    [
+     "Brand Kit — simpan warna brand",
+     1
+    ]
+   ],
+   "key": "Eyedropper — ambil warna dari elemen/foto",
+   "key_amb": 1,
+   "correct_excl": 8,
+   "incorrect_excl": 3,
+   "unatt_excl": 4,
+   "p": 0.5333333333333333,
+   "U": 3,
+   "L": 0,
+   "k": 4,
+   "D": 0.75,
+   "rpb": 0.719566603465583
+  },
+  {
+   "no": 14,
+   "text": "Seorang anggota ISKA ingin membuat konten Instagram Post untuk kampanye sosial. Berdasarkan standar ukuran konten media sosial di Canva, ukuran yang TEPAT untuk Instagram Feed adalah:",
+   "acc": 50,
+   "correct": 8,
+   "incorrect": 3,
+   "unatt": 5,
+   "avgt": "00:00:23",
+   "answers": {
+    "Agnes Nurak": "1080 x 1080 px (Instagram Feed)",
+    "Mien": "1080 x 1080 px (Instagram Feed)",
+    "LESLY MARCHRITH NUSALY": "1080 x 1080 px (Instagram Feed)",
+    "Gerarda Ina": "1080 x 1080 px (Instagram Feed)",
+    "Mirza Caroline": "1080 x 1080 px (Instagram Feed)",
+    "wisye pangalila": "1080 x 1080 px (Instagram Feed)",
+    "Yovita": "1080 x 1080 px (Instagram Feed)",
+    "Netty Nusaly": "1080 x 1080 px (Instagram Feed)",
+    "Ivo Emelia": "1080 x 1920 px (Instagram Story)",
+    "Marsia Sairina": "1280 x 720 px (YouTube Thumbnail)",
+    "Silvya Runturambi": null,
+    "Maria": null,
+    "Ivonne runturambi": null,
+    "Tintin tityn": null,
+    "Yovita*": null
+   },
+   "distr": [
+    [
+     "1080 x 1080 px (Instagram Feed)",
+     8
+    ],
+    [
+     "1080 x 1920 px (Instagram Story)",
+     1
+    ],
+    [
+     "1280 x 720 px (YouTube Thumbnail)",
+     1
+    ]
+   ],
+   "key": "1080 x 1080 px (Instagram Feed)",
+   "key_amb": 1,
+   "correct_excl": 8,
+   "incorrect_excl": 2,
+   "unatt_excl": 5,
+   "p": 0.5333333333333333,
+   "U": 4,
+   "L": 0,
+   "k": 4,
+   "D": 1.0,
+   "rpb": 0.8654246987626606
+  },
+  {
+   "no": 15,
+   "text": "Dalam konteks berkarya dengan hati dan ketulusan, materi pelatihan menyebutkan 4 nilai utama dalam membuat desain. Manakah yang BUKAN bagian dari keempat nilai tersebut?",
+   "acc": 44,
+   "correct": 7,
+   "incorrect": 4,
+   "unatt": 5,
+   "avgt": "00:00:41",
+   "answers": {
+    "Agnes Nurak": "Inovasi tanpa batas dalam setiap desain",
+    "Mien": "Ketulusan dalam berkarya untuk memuliakan Tuhan",
+    "LESLY MARCHRITH NUSALY": "Tanggung jawab atas setiap karya yang dibuat",
+    "Gerarda Ina": "Inovasi tanpa batas dalam setiap desain",
+    "Mirza Caroline": "Inovasi tanpa batas dalam setiap desain",
+    "wisye pangalila": "Inovasi tanpa batas dalam setiap desain",
+    "Yovita": "Inovasi tanpa batas dalam setiap desain",
+    "Netty Nusaly": "Semangat melayani untuk menginspirasi sesama",
+    "Ivo Emelia": "Inovasi tanpa batas dalam setiap desain",
+    "Marsia Sairina": "Inovasi tanpa batas dalam setiap desain",
+    "Silvya Runturambi": null,
+    "Maria": null,
+    "Ivonne runturambi": null,
+    "Tintin tityn": null,
+    "Yovita*": null
+   },
+   "distr": [
+    [
+     "Inovasi tanpa batas dalam setiap desain",
+     7
+    ],
+    [
+     "Ketulusan dalam berkarya untuk memuliakan Tuhan",
+     1
+    ],
+    [
+     "Tanggung jawab atas setiap karya yang dibuat",
+     1
+    ],
+    [
+     "Semangat melayani untuk menginspirasi sesama",
+     1
+    ]
+   ],
+   "key": "Inovasi tanpa batas dalam setiap desain",
+   "key_amb": 1,
+   "correct_excl": 7,
+   "incorrect_excl": 3,
+   "unatt_excl": 5,
+   "p": 0.4666666666666667,
+   "U": 2,
+   "L": 0,
+   "k": 4,
+   "D": 0.5,
+   "rpb": 0.5098087711812141
+  },
+  {
+   "no": 16,
+   "text": "Manakah urutan langkah yang BENAR untuk memilih dan menggunakan template di Canva?",
+   "acc": 38,
+   "correct": 6,
+   "incorrect": 5,
+   "unatt": 5,
+   "avgt": "00:00:29",
+   "answers": {
+    "Agnes Nurak": "Login → Pilih menu Template → Pilih jenis desain → Cari template → Klik 'Gunakan template ini'",
+    "Mien": "Login → Pilih menu Template → Pilih jenis desain → Cari template → Klik 'Gunakan template ini'",
+    "LESLY MARCHRITH NUSALY": "Login → Klik Buat Desain → Pilih Elemen → Temukan Template → Edit",
+    "Gerarda Ina": "Login → Pilih menu Template → Pilih jenis desain → Cari template → Klik 'Gunakan template ini'",
+    "Mirza Caroline": "Login → Klik Buat Desain → Pilih Elemen → Temukan Template → Edit",
+    "wisye pangalila": "Login → Pilih menu Template → Pilih jenis desain → Cari template → Klik 'Gunakan template ini'",
+    "Yovita": "Login → Klik Buat Desain → Pilih Elemen → Temukan Template → Edit",
+    "Netty Nusaly": "Login → Pilih menu Proyek → Cari Template → Download → Edit Offline",
+    "Ivo Emelia": "Login → Pilih menu Template → Pilih jenis desain → Cari template → Klik 'Gunakan template ini'",
+    "Marsia Sairina": "Login → Pilih menu Unggahan → Import Template → Gunakan",
+    "Silvya Runturambi": null,
+    "Maria": null,
+    "Ivonne runturambi": null,
+    "Tintin tityn": null,
+    "Yovita*": null
+   },
+   "distr": [
+    [
+     "Login → Pilih menu Template → Pilih jenis desain → Cari template → Klik 'Gunakan template ini'",
+     5
+    ],
+    [
+     "Login → Klik Buat Desain → Pilih Elemen → Temukan Template → Edit",
+     3
+    ],
+    [
+     "Login → Pilih menu Proyek → Cari Template → Download → Edit Offline",
+     1
+    ],
+    [
+     "Login → Pilih menu Unggahan → Import Template → Gunakan",
+     1
+    ]
+   ],
+   "key": "Login → Pilih menu Template → Pilih jenis desain → Cari template → Klik 'Gunakan template ini'",
+   "key_amb": 1,
+   "correct_excl": 5,
+   "incorrect_excl": 5,
+   "unatt_excl": 5,
+   "p": 0.3333333333333333,
+   "U": 3,
+   "L": 0,
+   "k": 4,
+   "D": 0.75,
+   "rpb": 0.6027456808124461
+  },
+  {
+   "no": 17,
+   "text": "Seorang anggota tim ingin memberikan masukan pada desain banner kegiatan yang sedang dikerjakan rekannya di Canva tanpa harus bertemu secara langsung. Fitur yang PALING EFEKTIF digunakan adalah:",
+   "acc": 19,
+   "correct": 3,
+   "incorrect": 8,
+   "unatt": 5,
+   "avgt": "00:00:55",
+   "answers": {
+    "Agnes Nurak": "Komentar langsung pada elemen desain di Canva",
+    "Mien": "Komentar langsung pada elemen desain di Canva",
+    "LESLY MARCHRITH NUSALY": "Penyimpanan cloud agar file dapat diakses kapan saja",
+    "Gerarda Ina": "Penyimpanan cloud agar file dapat diakses kapan saja",
+    "Mirza Caroline": "Download desain lalu kirim via email beserta catatan revisi",
+    "wisye pangalila": "Share tautan desain tanpa akses edit",
+    "Yovita": "Penyimpanan cloud agar file dapat diakses kapan saja",
+    "Netty Nusaly": "Download desain lalu kirim via email beserta catatan revisi",
+    "Ivo Emelia": "Download desain lalu kirim via email beserta catatan revisi",
+    "Marsia Sairina": "Download desain lalu kirim via email beserta catatan revisi",
+    "Silvya Runturambi": null,
+    "Maria": null,
+    "Ivonne runturambi": null,
+    "Tintin tityn": null,
+    "Yovita*": null
+   },
+   "distr": [
+    [
+     "Download desain lalu kirim via email beserta catatan revisi",
+     4
+    ],
+    [
+     "Penyimpanan cloud agar file dapat diakses kapan saja",
+     3
+    ],
+    [
+     "Komentar langsung pada elemen desain di Canva",
+     2
+    ],
+    [
+     "Share tautan desain tanpa akses edit",
+     1
+    ]
+   ],
+   "key": "Komentar langsung pada elemen desain di Canva",
+   "key_amb": 2,
+   "key_solved": true,
+   "correct_excl": 2,
+   "incorrect_excl": 8,
+   "unatt_excl": 5,
+   "p": 0.13333333333333333,
+   "U": 2,
+   "L": 0,
+   "k": 4,
+   "D": 0.5,
+   "rpb": 0.5545203420633897
+  },
+  {
+   "no": 18,
+   "text": "Pernyataan Paus Leo XIV dalam Ensiklik 'Magnifica Humanitas' (2026) menegaskan bahwa AI harus menjadi alat untuk kebaikan bersama. Dalam konteks penggunaan Canva dengan fitur AI, tindakan mana yang PALING BERTENTANGAN dengan prinsip tersebut?",
+   "acc": 44,
+   "correct": 7,
+   "incorrect": 4,
+   "unatt": 5,
+   "avgt": "00:00:28",
+   "answers": {
+    "Agnes Nurak": "Menggunakan fitur AI Canva untuk membuat konten yang memfitnah atau menyebarkan informasi palsu",
+    "Mien": "Menggunakan fitur AI Canva untuk membuat konten yang memfitnah atau menyebarkan informasi palsu",
+    "LESLY MARCHRITH NUSALY": "Menggunakan fitur AI Canva untuk membuat konten yang memfitnah atau menyebarkan informasi palsu",
+    "Gerarda Ina": "Menggunakan template AI Canva untuk mendukung kegiatan pelayanan gereja",
+    "Mirza Caroline": "Menggunakan fitur AI Canva untuk membuat konten yang memfitnah atau menyebarkan informasi palsu",
+    "wisye pangalila": "Menggunakan fitur AI Canva untuk membuat konten yang memfitnah atau menyebarkan informasi palsu",
+    "Yovita": "Menggunakan fitur AI Canva untuk membuat konten yang memfitnah atau menyebarkan informasi palsu",
+    "Netty Nusaly": "Menggunakan fitur AI Canva untuk membuat konten yang memfitnah atau menyebarkan informasi palsu",
+    "Ivo Emelia": "Memanfaatkan fitur AI Canva untuk menghasilkan konten yang membangun dan menginspirasi",
+    "Marsia Sairina": "Memanfaatkan fitur AI Canva untuk menghasilkan konten yang membangun dan menginspirasi",
+    "Silvya Runturambi": null,
+    "Maria": null,
+    "Ivonne runturambi": null,
+    "Tintin tityn": null,
+    "Yovita*": null
+   },
+   "distr": [
+    [
+     "Menggunakan fitur AI Canva untuk membuat konten yang memfitnah atau menyebarkan informasi palsu",
+     7
+    ],
+    [
+     "Memanfaatkan fitur AI Canva untuk menghasilkan konten yang membangun dan menginspirasi",
+     2
+    ],
+    [
+     "Menggunakan template AI Canva untuk mendukung kegiatan pelayanan gereja",
+     1
+    ]
+   ],
+   "key": "Menggunakan fitur AI Canva untuk membuat konten yang memfitnah atau menyebarkan informasi palsu",
+   "key_amb": 1,
+   "correct_excl": 7,
+   "incorrect_excl": 3,
+   "unatt_excl": 5,
+   "p": 0.4666666666666667,
+   "U": 3,
+   "L": 0,
+   "k": 4,
+   "D": 0.75,
+   "rpb": 0.7598512202619186
+  },
+  {
+   "no": 19,
+   "text": "Seorang desainer Canva memilih kombinasi warna monokromatik untuk posternya. Apa yang dimaksud dengan skema warna monokromatik?",
+   "acc": 38,
+   "correct": 6,
+   "incorrect": 5,
+   "unatt": 5,
+   "avgt": "00:00:31",
+   "answers": {
+    "Agnes Nurak": "Satu warna dasar dengan berbagai gradasi dan tingkat kecerahan berbeda",
+    "Mien": "Satu warna dasar dengan berbagai gradasi dan tingkat kecerahan berbeda",
+    "LESLY MARCHRITH NUSALY": "Satu warna dasar dengan berbagai gradasi dan tingkat kecerahan berbeda",
+    "Gerarda Ina": "Satu warna dasar dengan berbagai gradasi dan tingkat kecerahan berbeda",
+    "Mirza Caroline": "Kombinasi tiga warna yang membentuk segitiga pada roda warna",
+    "wisye pangalila": "Satu warna dasar dengan berbagai gradasi dan tingkat kecerahan berbeda",
+    "Yovita": "Satu warna dasar dengan berbagai gradasi dan tingkat kecerahan berbeda",
+    "Netty Nusaly": "Kombinasi tiga warna yang membentuk segitiga pada roda warna",
+    "Ivo Emelia": "Kombinasi tiga warna yang membentuk segitiga pada roda warna",
+    "Marsia Sairina": "Kombinasi tiga warna yang membentuk segitiga pada roda warna",
+    "Silvya Runturambi": null,
+    "Maria": null,
+    "Ivonne runturambi": null,
+    "Tintin tityn": null,
+    "Yovita*": null
+   },
+   "distr": [
+    [
+     "Satu warna dasar dengan berbagai gradasi dan tingkat kecerahan berbeda",
+     6
+    ],
+    [
+     "Kombinasi tiga warna yang membentuk segitiga pada roda warna",
+     4
+    ]
+   ],
+   "key": "Satu warna dasar dengan berbagai gradasi dan tingkat kecerahan berbeda",
+   "key_amb": 1,
+   "correct_excl": 6,
+   "incorrect_excl": 4,
+   "unatt_excl": 5,
+   "p": 0.4,
+   "U": 4,
+   "L": 0,
+   "k": 4,
+   "D": 1.0,
+   "rpb": 0.751160761577819
+  },
+  {
+   "no": 20,
+   "text": "Berdasarkan tujuan pelatihan Canva yang disampaikan dalam materi, manakah pernyataan yang PALING TEPAT menggambarkan esensi utama dari pelatihan ini?",
+   "acc": 69,
+   "correct": 11,
+   "incorrect": 0,
+   "unatt": 5,
+   "avgt": "00:00:24",
+   "answers": {
+    "Agnes Nurak": "Canva adalah sarana untuk berkarya, berkomunikasi efektif, dan memberikan dampak positif bagi sesama",
+    "Mien": "Canva adalah sarana untuk berkarya, berkomunikasi efektif, dan memberikan dampak positif bagi sesama",
+    "LESLY MARCHRITH NUSALY": "Canva adalah sarana untuk berkarya, berkomunikasi efektif, dan memberikan dampak positif bagi sesama",
+    "Gerarda Ina": "Canva adalah sarana untuk berkarya, berkomunikasi efektif, dan memberikan dampak positif bagi sesama",
+    "Mirza Caroline": "Canva adalah sarana untuk berkarya, berkomunikasi efektif, dan memberikan dampak positif bagi sesama",
+    "wisye pangalila": "Canva adalah sarana untuk berkarya, berkomunikasi efektif, dan memberikan dampak positif bagi sesama",
+    "Yovita": "Canva adalah sarana untuk berkarya, berkomunikasi efektif, dan memberikan dampak positif bagi sesama",
+    "Netty Nusaly": "Canva adalah sarana untuk berkarya, berkomunikasi efektif, dan memberikan dampak positif bagi sesama",
+    "Ivo Emelia": "Canva adalah sarana untuk berkarya, berkomunikasi efektif, dan memberikan dampak positif bagi sesama",
+    "Marsia Sairina": "Canva adalah sarana untuk berkarya, berkomunikasi efektif, dan memberikan dampak positif bagi sesama",
+    "Silvya Runturambi": null,
+    "Maria": null,
+    "Ivonne runturambi": null,
+    "Tintin tityn": null,
+    "Yovita*": null
+   },
+   "distr": [
+    [
+     "Canva adalah sarana untuk berkarya, berkomunikasi efektif, dan memberikan dampak positif bagi sesama",
+     10
+    ]
+   ],
+   "key": "Canva adalah sarana untuk berkarya, berkomunikasi efektif, dan memberikan dampak positif bagi sesama",
+   "key_amb": 1,
+   "correct_excl": 10,
+   "incorrect_excl": 0,
+   "unatt_excl": 5,
+   "p": 0.6666666666666666,
+   "U": 4,
+   "L": 0,
+   "k": 4,
+   "D": 1.0,
+   "rpb": 0.8747162928863548
+  }
+ ],
+ "P": {
+  "Agnes Nurak": {
+   "name": "Agnes Nurak",
+   "att": 20,
+   "acc": 100,
+   "score": 12000,
+   "correct": 20,
+   "incorrect": 0,
+   "unatt": 0,
+   "time_s": 505
+  },
+  "Mien": {
+   "name": "Mien",
+   "att": 20,
+   "acc": 90,
+   "score": 10800,
+   "correct": 18,
+   "incorrect": 2,
+   "unatt": 0,
+   "time_s": 858
+  },
+  "LESLY MARCHRITH NUSALY": {
+   "name": "LESLY MARCHRITH NUSALY",
+   "att": 20,
+   "acc": 75,
+   "score": 9000,
+   "correct": 15,
+   "incorrect": 5,
+   "unatt": 0,
+   "time_s": 268
+  },
+  "Gerarda Ina": {
+   "name": "Gerarda Ina",
+   "att": 20,
+   "acc": 75,
+   "score": 9000,
+   "correct": 15,
+   "incorrect": 5,
+   "unatt": 0,
+   "time_s": 1121
+  },
+  "Mirza Caroline": {
+   "name": "Mirza Caroline",
+   "att": 20,
+   "acc": 70,
+   "score": 8400,
+   "correct": 14,
+   "incorrect": 6,
+   "unatt": 0,
+   "time_s": 422
+  },
+  "wisye pangalila": {
+   "name": "wisye pangalila",
+   "att": 20,
+   "acc": 70,
+   "score": 8400,
+   "correct": 14,
+   "incorrect": 6,
+   "unatt": 0,
+   "time_s": 489
+  },
+  "Yovita": {
+   "name": "Yovita",
+   "att": 20,
+   "acc": 65,
+   "score": 7800,
+   "correct": 13,
+   "incorrect": 7,
+   "unatt": 0,
+   "time_s": 890
+  },
+  "Netty Nusaly": {
+   "name": "Netty Nusaly",
+   "att": 20,
+   "acc": 60,
+   "score": 7200,
+   "correct": 12,
+   "incorrect": 8,
+   "unatt": 0,
+   "time_s": 520
+  },
+  "Ivo Emelia": {
+   "name": "Ivo Emelia",
+   "att": 20,
+   "acc": 50,
+   "score": 6000,
+   "correct": 10,
+   "incorrect": 10,
+   "unatt": 0,
+   "time_s": 543
+  },
+  "Marsia Sairina": {
+   "name": "Marsia Sairina",
+   "att": 20,
+   "acc": 40,
+   "score": 4800,
+   "correct": 8,
+   "incorrect": 12,
+   "unatt": 0,
+   "time_s": 572
+  },
+  "Silvya Runturambi": {
+   "name": "Silvya Runturambi",
+   "att": 13,
+   "acc": 35,
+   "score": 4300,
+   "correct": 7,
+   "incorrect": 6,
+   "unatt": 7,
+   "time_s": 630
+  },
+  "Maria": {
+   "name": "Maria",
+   "att": 3,
+   "acc": 10,
+   "score": 1200,
+   "correct": 2,
+   "incorrect": 1,
+   "unatt": 17,
+   "time_s": 43
+  },
+  "Ivonne runturambi": {
+   "name": "Ivonne runturambi",
+   "att": 2,
+   "acc": 5,
+   "score": 600,
+   "correct": 1,
+   "incorrect": 1,
+   "unatt": 18,
+   "time_s": 41
+  },
+  "Tintin tityn": {
+   "name": "Tintin tityn",
+   "att": 0,
+   "acc": 0,
+   "score": 0,
+   "correct": 0,
+   "incorrect": 0,
+   "unatt": 0,
+   "time_s": 0
+  },
+  "Yovita*": {
+   "name": "Yovita*",
+   "att": 0,
+   "acc": 0,
+   "score": 0,
+   "correct": 0,
+   "incorrect": 0,
+   "unatt": 0,
+   "time_s": 0
+  }
+ },
+ "CORR": {
+  "Agnes Nurak": [
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C"
+  ],
+  "Mien": [
+   "C",
+   "X",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "X",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C"
+  ],
+  "LESLY MARCHRITH NUSALY": [
+   "C",
+   "C",
+   "X",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "X",
+   "C",
+   "C",
+   "C",
+   "X",
+   "X",
+   "X",
+   "C",
+   "C",
+   "C"
+  ],
+  "Gerarda Ina": [
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "X",
+   "C",
+   "C",
+   "C",
+   "C",
+   "X",
+   "C",
+   "X",
+   "C",
+   "C",
+   "C",
+   "X",
+   "X",
+   "C",
+   "C"
+  ],
+  "Mirza Caroline": [
+   "C",
+   "C",
+   "X",
+   "C",
+   "C",
+   "C",
+   "X",
+   "C",
+   "C",
+   "C",
+   "X",
+   "C",
+   "C",
+   "C",
+   "C",
+   "X",
+   "X",
+   "C",
+   "X",
+   "C"
+  ],
+  "wisye pangalila": [
+   "X",
+   "X",
+   "X",
+   "C",
+   "X",
+   "C",
+   "C",
+   "C",
+   "C",
+   "X",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "X",
+   "C",
+   "C",
+   "C"
+  ],
+  "Yovita": [
+   "X",
+   "X",
+   "C",
+   "C",
+   "C",
+   "X",
+   "C",
+   "C",
+   "X",
+   "C",
+   "C",
+   "X",
+   "C",
+   "C",
+   "C",
+   "X",
+   "X",
+   "C",
+   "C",
+   "C"
+  ],
+  "Netty Nusaly": [
+   "C",
+   "C",
+   "X",
+   "C",
+   "X",
+   "C",
+   "X",
+   "C",
+   "C",
+   "C",
+   "X",
+   "C",
+   "C",
+   "C",
+   "X",
+   "X",
+   "X",
+   "C",
+   "X",
+   "C"
+  ],
+  "Ivo Emelia": [
+   "C",
+   "X",
+   "X",
+   "C",
+   "X",
+   "X",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "X",
+   "X",
+   "X",
+   "C",
+   "C",
+   "X",
+   "X",
+   "X",
+   "C"
+  ],
+  "Marsia Sairina": [
+   "C",
+   "X",
+   "X",
+   "X",
+   "C",
+   "C",
+   "C",
+   "C",
+   "X",
+   "X",
+   "X",
+   "X",
+   "C",
+   "X",
+   "C",
+   "X",
+   "X",
+   "X",
+   "X",
+   "C"
+  ],
+  "Silvya Runturambi": [
+   "C",
+   "X",
+   "X",
+   "X",
+   "X",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "X",
+   "C",
+   "X",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-"
+  ],
+  "Maria": [
+   "C",
+   "C",
+   "X",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-"
+  ],
+  "Ivonne runturambi": [
+   "X",
+   "C",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-"
+  ],
+  "Tintin tityn": [
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-"
+  ],
+  "Yovita*": [
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-",
+   "-"
+  ]
+ },
+ "names": [
+  "Agnes Nurak",
+  "Mien",
+  "LESLY MARCHRITH NUSALY",
+  "Gerarda Ina",
+  "Mirza Caroline",
+  "wisye pangalila",
+  "Yovita",
+  "Netty Nusaly",
+  "Ivo Emelia",
+  "Marsia Sairina",
+  "Silvya Runturambi",
+  "Maria",
+  "Ivonne runturambi",
+  "Tintin tityn",
+  "Yovita*"
+ ],
+ "stats": {
+  "N": 15,
+  "mean": 9.933333333333334,
+  "sd": 6.41318087136866,
+  "var": 41.12888888888889,
+  "kr20": 0.9352427968559825,
+  "sem": 1.6319901387157645,
+  "k": 4
+ },
+ "pairs": [
+  [
+   1,
+   null,
+   0.413
+  ],
+  [
+   2,
+   10,
+   0.644
+  ],
+  [
+   3,
+   null,
+   0.422
+  ],
+  [
+   4,
+   6,
+   0.704
+  ],
+  [
+   5,
+   null,
+   0.376
+  ],
+  [
+   6,
+   null,
+   0.595
+  ],
+  [
+   7,
+   null,
+   0.519
+  ],
+  [
+   8,
+   null,
+   0.405
+  ],
+  [
+   9,
+   null,
+   0.502
+  ],
+  [
+   10,
+   null,
+   0.447
+  ],
+  [
+   11,
+   null,
+   0.462
+  ],
+  [
+   12,
+   null,
+   0.407
+  ],
+  [
+   13,
+   null,
+   0.462
+  ],
+  [
+   14,
+   null,
+   0.468
+  ],
+  [
+   15,
+   19,
+   0.949
+  ],
+  [
+   16,
+   null,
+   0.516
+  ],
+  [
+   17,
+   null,
+   0.506
+  ],
+  [
+   18,
+   null,
+   0.383
+  ],
+  [
+   19,
+   null,
+   0.4
+  ],
+  [
+   20,
+   null,
+   0.562
+  ]
+ ],
+ "pmap": {
+  "Agnes Nurak": "Agnes",
+  "Mien": null,
+  "LESLY MARCHRITH NUSALY": "Lesly Marchrith",
+  "Gerarda Ina": "Gerarda Ina",
+  "Mirza Caroline": "Mirza Caroline",
+  "wisye pangalila": "wisye pangalila",
+  "Yovita": "Yovita",
+  "Netty Nusaly": null,
+  "Ivo Emelia": "Ivo Emelia",
+  "Marsia Sairina": "Marsia sairina",
+  "Silvya Runturambi": null,
+  "Maria": "Maria",
+  "Ivonne runturambi": "Ivonne",
+  "Tintin tityn": "Tintin tityn",
+  "Yovita*": "Yovita"
+ }
+}

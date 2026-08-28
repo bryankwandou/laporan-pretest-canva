@@ -1,0 +1,106 @@
+{
+ "PAIRC": [
+  [
+   "Agnes Nurak",
+   "Agnes",
+   6,
+   20
+  ],
+  [
+   "wisye pangalila",
+   "wisye pangalila",
+   8,
+   14
+  ],
+  [
+   "Mirza Caroline",
+   "Mirza Caroline",
+   9,
+   14
+  ],
+  [
+   "Ivo Emelia",
+   "Ivo Emelia",
+   6,
+   10
+  ],
+  [
+   "LESLY MARCHRITH NUSALY",
+   "Lesly Marchrith",
+   12,
+   15
+  ],
+  [
+   "Gerarda Ina",
+   "Gerarda Ina",
+   12,
+   15
+  ],
+  [
+   "Yovita",
+   "Yovita",
+   10,
+   13
+  ],
+  [
+   "Marsia Sairina",
+   "Marsia sairina",
+   6,
+   8
+  ]
+ ],
+ "comp": [
+  "Agnes Nurak",
+  "Mien",
+  "LESLY MARCHRITH NUSALY",
+  "Gerarda Ina",
+  "Mirza Caroline",
+  "wisye pangalila",
+  "Yovita",
+  "Netty Nusaly",
+  "Ivo Emelia",
+  "Marsia Sairina"
+ ],
+ "inc": [
+  "Silvya Runturambi",
+  "Maria",
+  "Ivonne runturambi",
+  "Tintin tityn",
+  "Yovita*"
+ ],
+ "kr_c": 0.7213706041478809,
+ "sem_c": 1.7578395831246945,
+ "t_c": 3.668996928526714,
+ "dz_c": 1.2971863041569272,
+ "g_c": 0.43956043956043955,
+ "mean_gain_c": 5,
+ "sd_gain_c": 3.854496446637726,
+ "pbin": 0.00390625,
+ "crit": 2.365,
+ "vincent": {
+  "correct": 13,
+  "row": [
+   "C",
+   "C",
+   "X",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "C",
+   "X",
+   "X",
+   "C",
+   "X",
+   "X",
+   "C",
+   "C",
+   "X",
+   "X",
+   "C"
+  ],
+  "time_s": 88
+ }
+}
